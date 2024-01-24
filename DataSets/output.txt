@@ -1,0 +1,1244 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DesignScience_PASE_Matrix_Response
+
+
+AUTHORS’ RESPONSE TO REVIEWERS’ COMMENTS
+
+Product Architecture Strategies and Effects Matrices for early evaluation and selection of
+product architectures
+
+By S.E. Rice, B.A. Sannar, S.A. McKinnon, T.M. Humphrey, C.A. Mattson, C.D. Sorenson
+mattson@byu.edu
+
+Nov 21, 2023
+
+We are grateful for the time spent by the reviewers and editors on behalf of this manuscript. We
+have improved the paper based on each of the reviewers’ comments. Please note: The authors’
+responses are in blue, while the reviewer’s comments are in Black. Excerpts from the improved
+text are provided below – indented – for convenience.
+
+Reviewer 1
+
+1.1 Overall, this is a well-written paper with a well-formed research objective. I believe the PASE
+matrix fills a need in design practice and I hope the authors continue work building the
+database.
+
+Thank you for your time reviewing the manuscript and your comments to improve its quality.
+
+1.2 I have just one suggested addition:
+* With the rise of ChatGPT, I think it would be beneficial to compare the results to either
+ChatGPT or other AI to achieve the same task. For example, what result would AI give it it was
+asked for a design architecture strategy to increase reliability? I suspect the answer would
+probably be overly generic (or wrong), but I think it will be a question readers will have. Building
+the proposed database is quite time intensive, so I think it would be beneficial to justify the need
+over using available AI approaches.
+
+We agree that others will have this question, just as we have had. In fact, in another paper we
+are currently writing, we are growing the PASE database with the help of AI, using our current
+database (the one described in this paper) as training data. Because that study is sizable and
+occupies its own paper, we have not added a substantial discussion/comparison of data from
+the present paper to ChatGPT results. We have however added the following paragraph in our
+concluding remarks to emphasize a major strength of the PASE Database and its matrices,
+which is that it links back to the sources for our data.
+
+While various AI tools, such as ChaptGPT (Kasneci et al., 2023), could also be used to
+identify some of these relationships; they lack the structured database that links the
+insights to specific sources and locations within those sources, thus losing traceability.
+However, AI-based data mining of full paper texts may be a powerful avenue to rapidly
+
+
+
+grow the PASE database established in this paper, where the data in this paper will
+serve as truth data for AI training.
+
+Reviewer 2
+Comments to the Author:
+
+2.1 The paper proposes a systematic approach based on textual analysis of literature to
+aggregate written statements on the effects of product architecture strategies, into a
+matrix/database showing each strategy’s effect (both desired effect and side effects). The
+matrix/database can be filtered to support selection of suitable strategies given desired effects.
+Overall, I find the paper is quite interesting and is nicely written, however deserves more critical
+reflection to recognise and adequately address some obvious gaps prior to publication. In
+particular the research method grounding in literature is weak and the approach largely reduces
+a complex topic to a binary matrix format supported by various metrics, without adequate
+discussion of the complexities (such as contextual issues and how well each strategy is
+implemented, as well as whether the relationships posited in literature are grounded in enough
+evidence). Some of these points are mentioned at the end but seem almost an afterthought
+rather than integration of the issues throughout the paper.
+
+I think these issues are somewhat significant needing more than a couple of sentences to
+address, however, could be addressed with a bit more work and critical thought to make the
+paper more sophisticated. Overall, the paper is quite interesting despite these flaws.
+
+Thank you for the compliment and insights on the weaker portions of the paper. We can see that
+the original submission did not address these weaknesses clearly enough. Below, where
+detailed comments are provided by the reviewer on the weaknesses, we have provided a
+response and excerpts from the improved manuscript (See response 2.6 for Literature, and
+response 2.8 for Loss of Context).
+
+Detailed comments:
+
+2.2 The main contribution is stated on page 1 to be the methods used to analyze literature and
+form the matrix. Later on it seems that the idea of the PASE matrix and its application and the
+dataset created by the authors are also contributions. Perhaps this could be clarified.
+
+Thank you. We agree this needs to be clarified. Below is the improved first paragraph in the
+Introduction Section on Page 1:
+
+Product architecture is the scheme by which the functions of a product are
+allocated to physical components {Ulrich1995}. Architecture decisions are extremely
+influential in engineering design. They impact not only a firm's ability to implement
+changes, produce variety, and increase performance in products, but the firm's
+management structure as well {Ulrich1995}. Many of these impacts are unexpected and
+
+
+
+often negative {crawley2004}, with market success and failure often reliant on a
+product's architectural configuration {mikkola2007}. Research into product architecture
+and its effects has produced an overwhelming amount of information over decades, with
+fundamental sources like {Ulrich1995} being cited by over 4,000 other papers. The
+amount of knowledge can be difficult to fully absorb and use due to its sheer scope and
+size. This paper introduces a database structure for collecting architectural findings from
+peer-reviewed sources that can then be rapidly retrieved and visualized in matrix form to
+make informed early architecture decisions that exploit a wide range of downstream
+effects.
+
+2.3 The description of the approach in section 2 is easy to understand. Consider adding brief
+comments to section 2.3 to indicate the situation in which the strategy-driven approach would be
+used.
+
+Thank you for this insight; we have added the following about when to use a strategy driven
+approach:
+
+A strategy driven approach may be desirable when an architecture strategy has been
+decided upon, or is already in place, and the design team wants to verify that the
+strategy’s downstream effects are compatible with the system, design, or requirements.
+
+2.4 Section 3 describes the literature review method that was used to populate the
+database/matrix. The process seems appropriate. Ultimately though, only 16 papers seem to
+have been used to construct the matrix, which seems a bit light. This is surprising given the
+huge amount of literature on the topic – the authors mention 4000 citations to one seminal
+publication alone. These issues are acknowledged later on, but in section 3, how can you justify
+only using 16 papers and how confident are you that the important issues are captured?
+
+We agree the use of sixteen papers is very limited. Our goal was to better understand the cause
+and effect relationships between architecture strategies and downstream effects. While this paper
+only has 16 papers in its database, it has already provided 451 relationships. We now see
+opportunities for expanding this in future work with a large language model AI in order to more
+comprehensively review the literature. As this will be a separate paper, we did not discuss it in
+detail here, but we have made it more clear that while useful information can already be gleaned
+from 16 papers, they are not considered comprehensive. Below is our improved initial
+paragraph for section 3.1:
+
+The PASE Database was built to aggregate knowledge observed from the literature
+about the downstream effects of product architecture on the development process. A
+systematic literature review was conducted by the lead author in order to find an initial
+selection of the literature for a large variety of architecture effects that could be
+processed by the research team. The papers selected were not intended to be
+
+
+
+comprehensive, but to cover a range of product architecture topics with substantial
+detail.
+
+We also made the following changes to the paragraph after Step 5 under Section 3.1:
+
+This database can be expanded upon over time using the same process above
+for adding sources and their subsequent information to the database. After the
+initial development, five more sources (Bonvoisin et al., 2016; Jiao et al., 2007;
+Farrell and Simpson, 2003; Sosa et al., 2000; Kuo et al., 2001) were processed and
+incorporated into the database, giving additional insights beyond those collected
+in the initial data. While 16 sources is a relatively small selection, over 450 unique
+relationships were identified as reported in Section 3.2, providing a significant amount of
+useful information.
+
+2.5 The approach of text analysis to link statements about cause and effect seems reasonable.
+The authors give some space to describe the process by which insights were extracted from
+their selected papers. This is good but the obvious opportunity to discuss research methods for
+textual analysis (which is common in many disciplines) is missed – there are few or no
+references supporting or justifying the research method used.
+
+We agree that we could have better explained our methods for extracting insights from the
+literature. While text analysis was not used in this paper, we do intend to use it in future work.
+For this paper, extracting the insights was intentionally done manually, to have more confidence
+in our initial dataset (see response 1.2). We have updated section 3.1 to more clearly reflect our
+method for organizing the insights into strategies and effects as shown below:
+
+Initial Literature Review and Steps for Processing Sources
+In the first step of the literature review, the influential articles The Role of Product
+Architecture in the Manufacturing Firm by Ulrich (1995) and Impact of Modularity
+Decisions on a Firm’s Economic Objectives by Hackl et al. (2020) were selected. Ulrich
+(1995) was selected as his paper is recognized as a seminal work, having over 4000
+citations. In order to include more recent efforts, the paper by Hackl et al. (2020) was
+selected as their research identified many effects of product architecture, was only two
+years old at the time of the literature review, and had already been cited over 20 times.
+Additional papers were then reviewed that were either referenced by these two
+foundational papers, or cited them. An initial selection was made of those papers based
+on keywords pertaining to product architecture in the titles (i.e. product architecture,
+components, standardization, modularity, interfaces, design, and development) resulting
+in a set of 199 papers. Next, the abstracts of all 199 papers were carefully reviewed,
+reducing the set to 45 papers the researchers believed had the greatest potential
+relevance. Finally, the bodies of the remaining articles were read, and categorized by
+which ones best explored key and varied architecture decisions, and their effects on
+downstream product development activities. As this was not intended to create a final,
+
+
+
+definitive, or comprehensive database, some subjectivity was tolerated to create this
+initial selection to then be processed.
+
+After reading the 45 papers, nine were identified as being highly likely to reveal effects of
+product architecture strategies. These nine papers, together with the two papers first
+referenced are the 11 papers from which the current PASE database was constructed.
+All 11 papers (Ulrich, 1995; Hackl et al., 2020; Brusoni et al., 2007; Clark, 1989; Danese
+and Filippini, 2010; Eppner et al., 2018; Stone and Wood, 2000; Ulrich and Seering,
+1990; Ulrich and Ellison, 1999, 2005; Wyatt et al., 2012) were read thoroughly, and had
+data extracted and organized into a database, becoming sources. This reduction in the
+number of papers to be processed was done mainly to maximize the likelihood that time
+spent extracting data would result in pertinent strategies and effects. Any of the papers
+identified at the beginning could have been processed, though may not have contained
+as many relevant statements on product architecture and its effects.
+
+The statements were printed onto 374 cards, and using the KJ method (Scupin, 1997)
+were grouped into categories, first by strategy, and then the strategies themselves were
+grouped. This was done by three researchers, all with backgrounds in mechanical
+engineering. These categorized observations were then broken down into their
+components that would make up the six rational tables of the database: Sources,
+Statements, Insights, Strategies, Effects, and Relationships, with each entry having its
+own unique identifier or identifier code. The research team decomposed the statements
+into their database components using the following steps:
+
+2.6 The approach seems broadly sensible as long as the sources aren’t questioned, but also
+raises many unanswered questions about the quality of the underpinning data: what to do if
+there are conflicting statements found in different sources? What is the quality of each source
+and what support is there for the particular statement in that source? I imagine some of the
+statements made in papers about product architectures could be throwaway comments or
+statements of opinion (or “something that is commonly known”) without basis in evidence. Just
+because someone wrote it in a paper doesn’t necessarily make it true! The authors could
+elaborate on how they dealt with such issues, which would make the paper much more
+convincing.
+
+Our team also discussed the issue of source quality and conflicting information. We made the
+careful decision to simply report on what was claimed in the literature – without attempting to
+rate or rank the quality of the claim. While we believe there is future work in being able to do
+that, we built the present paper on the assumption that peer-reviewed papers are relatively
+reliable, and our database can trace every relationship back to a source statement. We agree
+this has shortcomings and some readers may or may not agree with this approach. As they
+need to take that into consideration when using the information provided by a PASE matrix, we
+have improved the first paragraph of 3.2 to clarify this:
+
+
+
+The PASE Database is the source of information which forms a PASE matrix. At present,
+it does not contain information about the relative quality of the numerous statements
+contained therein (statements extracted directly from the literature). While such
+qualitative information could enhance the PASE database, we could not confidently
+extract that information from the literature during this study. However, the quality of the
+database itself (its construction, the amount of information within, etc.) could be
+confidently assessed in real-time using database metrics. These metrics for the
+database give insights into its health and quality, and are necessary for informed
+decision-making. These indicators for the consistency and credibility of the database
+require current, up-to-date metrics to be retrievable from the database in real time. This
+transparency is critical for user confidence.
+
+2.7 Section 3.2 has some interesting points (mainly the saturation plot) and moves towards a
+statistical view. There are a few questionable statements such as ‘reliability’ of a strategy being
+the number of sources that agree with it (without information on how the link is supported in the
+original individual sources, the raw number of supports has little value – perhaps authors simply
+state something because the idea is known and they need to mention it, regardless of whether
+they can offer actual additional support). I see what you mean but the word reliability doesn’t
+seem quite right.
+
+We agree that the term ‘reliability’ may not fully capture the concept we're trying to convey, and
+simply counting the number of sources supporting a strategy doesn't measure the quality of
+support for an insight or relationship. We have improved the introduction paragraph for section
+3.2 as seen above in response 2.6 We have also improved the “Ubiquity Ratio” paragraph in
+section 3.2 as follows:
+
+The number of sources that reference a given strategy (STR), effect (EFF), or
+relationship (REL), over the total number of sources in the database. This ratio can serve
+as a valuable tool in demonstrating the consistency of particular strategies, effects, or
+relationships found in the sources used in the database.
+
+We also agree there is a shortcoming with assessing the strength of a link or relationship.
+Currently, we do not have a way for quantifying the strength of relationships based on the
+available literature, and believe this is an area that warrants further research and development.
+We have added the following second to last paragraph in our concluding remarks:
+
+While the PASE method provides insights on strategy-effect relationships, it does not yet
+capture information on the strength of those relationships. This is an area for possible
+future research.
+
+
+
+2.8 The other aspect which raises questions is that it is not only the strategy that leads to an
+effect but how (well) it is implemented and how the suitability of a strategy or its effect might
+differ depending on design context. There is also the possibility to interpret many strategies in
+different ways. For example the strategy “use modular architecture” encompasses a massive
+array of issues and the modular architecture can be different depending on architect choices
+and module drivers selected as well as how they define and measure modularity. Similar issues
+could be raised for the effects such as ‘increases component maturity’. Yes, modularity MIGHT
+increase maturity, but not necessarily. These (slightly but not very) subtle issues aren’t really
+discussed in enough detail in the paper. Brief mention is made in section 4.2 including mention
+that the software displays the original statements from papers – this seems to be a potential
+solution, or part of one, but isn’t adequately elaborated. Examples of how it looks could be
+presented.
+
+This is an issue that we are working to better address and have also discussed at length within
+our team. As most effects are dependent upon the situation, we found it difficult to clearly and
+consistently capture the how, when and why of a strategy. We are working to make the original
+statements and sources easily available for anyone using our on-line tool so they can be
+referenced. To make this more clear we have added a second paragraph in Section 4.4
+(formerly 4.2) as written below:
+
+As a visual summary of relationships the PASE matrix is necessarily terse, and lacks
+details on how, when and why a strategy causes a certain effect. Two effects may
+appear contradictory coming from the same strategy, but generally this is due to how the
+strategy was implemented. While the relationships between strategy and effect are found
+in the PASE database’s sources, they do not always offer more detailed explanations. A
+designer alerted to an unfamiliar relationship by a PASE matrix may have to research it
+on their own.
+
+Reviewer 3
+3.1 This paper introduces the Product Architecture Strategy and Effect (PASE) Matrix as a
+means of exploring product architecture design decisions. The PASE Matrix approach
+aggregates and correlates ‘strategies of interest’ and ‘effects of interest’ that have been
+identified by the authors from the product architecture literature. Users of the PACE Matrix are
+shown related effects or strategies that they may not have originally considered. The authors
+describe the development of this approach and introduce metrics that can be used for assessing
+the maturity and robustness of the database.
+
+The development of the PASE Matrix is intriguing and the continued development and testing of
+the database could provide a fascinating toolkit for exploring product architecture decisions. I
+can envision design studies centered around post-mortem analyses of product architecture
+decisions where decision-makers are asked how the PASE Matrix may have changed their
+
+
+
+course of action. I can also envision design studies centered around real-time decision-making
+studies that explore how the identified ‘strategies’ and ‘effects’ of interest (and those that are
+unexpected but identified by PASE) influence decision-making.
+
+Thank you for your time reviewing this manuscript. Your ideas on real-time-decision-making are
+interesting areas for potential future study we had not yet considered in much depth.
+
+3.2 While I do like this paper and think that it contributes to design science, I have a few
+recommendations for how a restructuring of content could make the paper stronger:
+
+The authors have missed a significant opportunity to draw a parallel to existing design tools.
+Specifically, I was surprised to see that the authors had not made a reference, oranalogy, to
+TRIZ. While these two approaches (TRIZ and PASE) have a different focus they have
+conceptual and structural overlap. Both:
+
+● Have matrix elements that are populated by an exploration of products, patents, and
+literature where fundamental principles have been distilled by the creators of the
+approach.
+
+● Are intended to be a decision-support tool that identifies principles that may have been
+missed or overlooked by the designer.
+
+● Support “earlier” design decisions, such as those in concept development where the
+interactions and interfaces between components/product architecture elements may not
+be completely understood.
+
+Thank you for this insight. Our team also noted some of the similarities to TRIZ during our initial
+investigations, such as intent to aid in early design decisions. Below we have improved the
+second to last paragraph of the Introduction below:
+
+As part of a method to make cause-and-effect insights gleaned from published
+findings more accessible for use by designers, this paper introduces the Product
+Architecture Strategy and Effects (PASE) matrix. A method for aggregating strategies
+and effects from the literature on product architecture into a structured data-set known
+as the PASE Database is also shown. This builds a digital system enabling visualization
+of the cause-and-effect relationships in a way that facilitates design decisions, and
+identifies areas where knowledge is potentially lacking. This method shares similarities to
+TRIZ (Moehrle 2005) because it aids early design decisions based on patterns emerging
+from the literature. Unlike TRIZ, the PASE method is not centered on conflict resolution.
+Instead, the PASE method is centered on revealing cause-and-effect relationships related to
+product architecture decisions.
+
+3.3 I recommend moving Sections 2.2 and 2.3 to later in the paper when the authors
+demonstrate the application of the approach. Section 2.1 could become all of Section 2. I make
+this recommendation because the meat of the paper, in my opinion, is Section 3. The
+methodology feels a bit lost in the middle of the paper and I would like to see a stronger
+
+
+
+emphasis placed on how strategies and effects were identified and consolidated from the
+literature review.
+
+Thank you.
+
+Relative to the last sentence of R3.3 above, we have discussed consolidation below in our
+response to comment R3.6.
+
+To prevent the methodology from feeling lost in the middle of the paper we have moved
+Sections 2.2 and 2.3 – unchanged – to the beginning of Section 4 as suggested, with section
+4.1 now becoming section 4.3. The introductory paragraph for Section 4 has been improved as
+shown below:
+
+Section 4
+In this section, we discuss the two approaches for creating PASE matrices and
+demonstrate how a design team could use them to aid in finding and evaluating
+architecture strategies. Importantly, we show how the matrix can be used to mitigate
+undesirable effects.
+
+3.4 With a stronger focus on Section 3, I would like to see more information about how the
+authors made decisions around filtering down the papers used for identified strategies and
+effects. For example:
+
+● What keywords were used to identify the set of 199 papers?
+● What exclusion criteria were used to reduce the 199 papers to 45 papers? Did this
+
+process involve multiple authors? Was there discussion about whether a paper should
+be included or excluded?
+
+● How did the authors decide to reduce the 45 papers down to 9? The authors mention
+that they use categories of which explored key architecture decisions. What does this
+mean?
+
+● Were papers excluded because of resources available (time, researchers) or because
+they should not be considered in future development of the PASE Matrix? This becomes
+an important question when we consider the future development and expansion of the
+matrix. Should these papers be revisited or do they not contain useful information?
+Highlighting this is important for readers, and researchers, who want to use this tool or
+develop it further.
+
+These are important questions that we see were not clearly addressed in the paper. The intent
+was to find around ten papers with a significant amount of information on a variety of topics
+within product architecture. All of the papers initially identified in the literature review could have
+been used in this database, as they discussed some part of product architecture. The original
+selection of 199 papers was reduced to just nine due to limited man-hours to read and process
+them. Below we have improved the initial paragraph as can be seen above in our response 2.5.
+
+
+
+3.5 I would like to see more detail on the type of statements pulled from the text and how these
+statements were decomposed into insights. The authors also should provide additional clarity in
+Section 3.1 about the use of multiple readers/raters. Was the only paper coded by multiple
+readers the Jiao et al paper? There are established approaches for describing how text
+elements are identified from a document in a research study, and this paper doesn’t feel like it
+follows those established practices. Commenting earlier in the step-process about how many
+readers were used on each paper, inter-rater reliability assessment, and background/expertise
+of the coders should occur.
+
+We agree this information should be addressed sooner. In response 3.7 we give some specific
+examples of a statement pulled from the literature and how it is decomposed. We have
+improved paragraph 3.1 as shown in responses 2.5 and 3.8 to add clarity on the number of
+readers and that Jiao et al was the only one specifically tested.
+
+3.6 Did the authors consolidate statements that were viewed as similar? Perhaps as an
+appendix or supplemental material it would be nice to see a full list of coded statements/insights
+that currently make up the PASE Matrix.
+
+Thank you. We agree that the data should be publicly available and are making it available at
+the same location as the website GUI. To make this more clear, we have improved the second
+paragraph of Section 2.1 as follows:
+
+In order to build a PASE matrix, an existing database of strategies, effects, and their
+relationships is required. Our initial review of the literature revealed more than two dozen
+strategies and over 200 effects. These were used to construct the digital PASE
+Database, which was in turn employed to form the PASE matrices found in the
+remainder of this paper. Because the database contains several hundred relationships, a
+graphical interface was developed to interact with it and to automatically construct PASE
+matrices based on user selections. This interface is known as the PASE Matrix
+Generator and can be accessed through the following URL:
+https://www.design.byu.edu/resources/pasematrix. The rational tables used to construct
+the database are also available for download at this site.
+
+3.7 I really like Figure 3. In the text, I would like to see a text-driven example of Figure 3 as well.
+Could a potential statement, insight, etc. be listed with each step?
+
+We agree that a text-driven example of Figure 3 would significantly clarify the process of
+gathering and consolidating data in order to produce a PASE Database. The following is text
+from Subsection 3.1. Text-driven examples have been added to each step of the process.
+
+
+
+1. Read and Identify Potential Statements: A statement is any quotation from a source in
+which at least one specific decision regarding product architecture led to, or was said to
+lead to, one or more effects.
+
+Example Statement
+ST-001: “Although consumption and wear is frequently accommodated through a
+modular design with replaceable parts another popular strategy is to dramatically lower
+the cost of the entire product, often through an integral architecture, such that the entire
+product can be discarded or recycled.”
+
+2. Decompose Statements into Insights: An insight is a one-to-one pairing of an
+architecture strategy and one of its effects found within a statement. Wording was kept
+as close to the original statement as possible, while reorganizing it into a
+cause-and-effect sentence.
+
+Example Insights (from Statement ST-001)
+I-001: Modular architecture can circumvent wear.
+I-002: Integral architecture can circumvent wear.
+I-003: Integral architecture can lower the cost of the entire product.
+I-004: Integral architecture can facilitate disposable design.
+
+3. Group Insights & Consolidate: Insights were grouped by their causes, and had their
+effects compared. Each insight was constrained to be unique and duplicates within a
+single source were ignored, as each source must be limited to affirming any specific
+insight only once. If several statements gave the same insights, then the statements
+were consolidated, leaving a single statement pointing to a unique insight within each
+source.
+
+Example Consolidation (I-005 is from another statement)
+I-003: Integral architecture can lower the cost of the entire product.
+I-005: Integral architectures can allow for a lower cost product.
+
+Note: Similar or identical insights from different sources are not removed as they
+are seen as multiple sources affirming the same idea.
+
+4. Identify standard strategies, effects, and relationships: From the groupings of
+insights, the causes and effects were refined and their language standardized before
+these parts were placed in the database as architecture strategies and their effects. This
+helped reduce redundancy within the database, as similar ideas from different sources
+were recognized despite variation in the wording and terminology used by the various
+authors.
+
+Next, the strategy and effect pair identified from the insight was recorded as a
+relationship. If in the database there was no existing strategy or effect that adequately fit
+the cause and/or effect, a new one was added to the corresponding table in the
+database. If there were identical relationships, i.e. two insights from the same source
+
+
+
+communicated the same idea, one was removed as in step 3. If there was no existing
+relationship for the insight (such as when a new strategy or effect was described), then a
+new relationship was created. Relationships consist of simply their own identifier code,
+and the identifier codes for a strategy and an effect. Every insight was linked to a
+relationship’s identifier code.
+
+Example Strategy, Effect, and Relationship Identification
+Strategies
+ST-001 Use Modular Architecture
+ST-002 Use Integral Architecture
+Effects
+E-001 Decreases wear concerns
+E-002 Decreases cost per unit
+E-003 Increases Disposability
+Relationships
+R-001: (ST-001 + E-001)
+R-002: (ST-002 + E-001)
+R-003: (ST-002 + E-002)
+R-004: (ST-001 + E-003)
+
+Note: Insights are the key element in the database pointing either forward to a
+relationship or back towards the statements and sources from which they
+originated.
+
+5. Verify and record all identified components: All new strategies, effects and
+relationships were compared with any previously recorded in the database to again
+verify no duplicates had been included. All insights were ensured they linked to an
+identified relationship, and that relationships contained both a strategy and effect. All
+strategies, effects, insights, relationships, statements and the source were verified
+having been recorded in their own corresponding table with their own unique identifier
+code.
+
+Example Verification: R-002:(ST-002 + E-001), R-005:(ST-002 + E-001)
+
+Special Note: All of the examples in the above steps are taken from Ulrich 1995. The
+identifiers follow the format used in the PASE Database and have been reassigned
+values that correspond to the scope of this example.
+
+3.8 Can the authors explain the significant variability in Table 1 between the two coders? Did
+they have different backgrounds? Were there trends that explain why different statements and
+insights were coded by each? Was there a discussion where the unique statements and insights
+were debated?
+
+
+
+This is indeed an important issue to address, especially as we endeavor to expand the PASE
+Database. The following are the paragraphs on researcher reliability, at the end of Section 3.1,
+edited to address these concerns.
+
+Researcher Reliability
+The experience and number of people used to identify statements from each paper is
+another factor that may introduce variation in which statements are recorded. In order to
+better understand the implications of this variation, the paper by Jiao et al. (2007) was
+independently processed as a source by two researchers according to the steps
+described. Both Researcher 1 and Researcher 2 had technical backgrounds in
+engineering. Though both had previously coded sources into the PASE Database,
+Researcher 2 had about 40 man-hours more than Researcher 1. The information added
+was then reviewed and compared, and key differences are noted in Table 1.
+
+In total, the researchers recorded 33 distinct excerpts from Jiao et al. (2007).
+These excerpts were evaluated to see if they met the definition of a statement, i.e. they
+included at least one specific decision regarding product architecture that led to, or was
+said to lead to, one or more effects. This evaluation was completed by Researcher 2,
+with oversight and guidance from the primary author. Debate was an important tool in
+separating excerpts related to business or design strategies and effects from product
+architecture strategies and effects.
+
+Of the 33 excerpts recorded, 19 were found to meet the definition of a Statement.
+Only seven of these 19 statements were noted by both researchers. Five of the
+statements were only found by Researcher 1, and another seven were unique to
+Researcher 2. Statements however, do not correlate one to one with insights. The 19
+statements contained 44 insights, of which 23% were unique to Researcher 1, 36% to
+Researcher 2 and 41% were from the statements found by both. This indicates that
+anywhere from a quarter to one third of the data could have been lost (or not collected)
+had only one researcher been used on this source.
+
+Regarding the excerpts that were rejected, six were unique to Researcher 1, two
+were unique to Researcher 2, and six were annotated by both. Thus the ratio of
+statements to total excerpts recorded was 50% and 64% for Researchers 1 and 2.
+
+Due to the small dataset, no pattern was discernible that might explain the
+variation between researchers. That said, this exercise demonstrates the benefit of
+redundant researchers in maximizing the amount of data extracted from a source. This
+benefit does not extend to the quality of statements recorded. Regardless of the number
+of individuals used, the steps for processing data sources must be followed and debated
+to maintain the quality of relationships in the database.
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DesignScience_PASE_Matrix_Response
+
+
+AUTHORS’ RESPONSE TO REVIEWERS’ COMMENTS
+
+Product Architecture Strategies and Effects Matrices for early evaluation and selection of
+product architectures
+
+By S.E. Rice, B.A. Sannar, S.A. McKinnon, T.M. Humphrey, C.A. Mattson, C.D. Sorenson
+mattson@byu.edu
+
+Nov 21, 2023
+
+We are grateful for the time spent by the reviewers and editors on behalf of this manuscript. We
+have improved the paper based on each of the reviewers’ comments. Please note: The authors’
+responses are in blue, while the reviewer’s comments are in Black. Excerpts from the improved
+text are provided below – indented – for convenience.
+
+Reviewer 1
+
+1.1 Overall, this is a well-written paper with a well-formed research objective. I believe the PASE
+matrix fills a need in design practice and I hope the authors continue work building the
+database.
+
+Thank you for your time reviewing the manuscript and your comments to improve its quality.
+
+1.2 I have just one suggested addition:
+* With the rise of ChatGPT, I think it would be beneficial to compare the results to either
+ChatGPT or other AI to achieve the same task. For example, what result would AI give it it was
+asked for a design architecture strategy to increase reliability? I suspect the answer would
+probably be overly generic (or wrong), but I think it will be a question readers will have. Building
+the proposed database is quite time intensive, so I think it would be beneficial to justify the need
+over using available AI approaches.
+
+We agree that others will have this question, just as we have had. In fact, in another paper we
+are currently writing, we are growing the PASE database with the help of AI, using our current
+database (the one described in this paper) as training data. Because that study is sizable and
+occupies its own paper, we have not added a substantial discussion/comparison of data from
+the present paper to ChatGPT results. We have however added the following paragraph in our
+concluding remarks to emphasize a major strength of the PASE Database and its matrices,
+which is that it links back to the sources for our data.
+
+While various AI tools, such as ChaptGPT (Kasneci et al., 2023), could also be used to
+identify some of these relationships; they lack the structured database that links the
+insights to specific sources and locations within those sources, thus losing traceability.
+However, AI-based data mining of full paper texts may be a powerful avenue to rapidly
+
+
+
+grow the PASE database established in this paper, where the data in this paper will
+serve as truth data for AI training.
+
+Reviewer 2
+Comments to the Author:
+
+2.1 The paper proposes a systematic approach based on textual analysis of literature to
+aggregate written statements on the effects of product architecture strategies, into a
+matrix/database showing each strategy’s effect (both desired effect and side effects). The
+matrix/database can be filtered to support selection of suitable strategies given desired effects.
+Overall, I find the paper is quite interesting and is nicely written, however deserves more critical
+reflection to recognise and adequately address some obvious gaps prior to publication. In
+particular the research method grounding in literature is weak and the approach largely reduces
+a complex topic to a binary matrix format supported by various metrics, without adequate
+discussion of the complexities (such as contextual issues and how well each strategy is
+implemented, as well as whether the relationships posited in literature are grounded in enough
+evidence). Some of these points are mentioned at the end but seem almost an afterthought
+rather than integration of the issues throughout the paper.
+
+I think these issues are somewhat significant needing more than a couple of sentences to
+address, however, could be addressed with a bit more work and critical thought to make the
+paper more sophisticated. Overall, the paper is quite interesting despite these flaws.
+
+Thank you for the compliment and insights on the weaker portions of the paper. We can see that
+the original submission did not address these weaknesses clearly enough. Below, where
+detailed comments are provided by the reviewer on the weaknesses, we have provided a
+response and excerpts from the improved manuscript (See response 2.6 for Literature, and
+response 2.8 for Loss of Context).
+
+Detailed comments:
+
+2.2 The main contribution is stated on page 1 to be the methods used to analyze literature and
+form the matrix. Later on it seems that the idea of the PASE matrix and its application and the
+dataset created by the authors are also contributions. Perhaps this could be clarified.
+
+Thank you. We agree this needs to be clarified. Below is the improved first paragraph in the
+Introduction Section on Page 1:
+
+Product architecture is the scheme by which the functions of a product are
+allocated to physical components {Ulrich1995}. Architecture decisions are extremely
+influential in engineering design. They impact not only a firm's ability to implement
+changes, produce variety, and increase performance in products, but the firm's
+management structure as well {Ulrich1995}. Many of these impacts are unexpected and
+
+
+
+often negative {crawley2004}, with market success and failure often reliant on a
+product's architectural configuration {mikkola2007}. Research into product architecture
+and its effects has produced an overwhelming amount of information over decades, with
+fundamental sources like {Ulrich1995} being cited by over 4,000 other papers. The
+amount of knowledge can be difficult to fully absorb and use due to its sheer scope and
+size. This paper introduces a database structure for collecting architectural findings from
+peer-reviewed sources that can then be rapidly retrieved and visualized in matrix form to
+make informed early architecture decisions that exploit a wide range of downstream
+effects.
+
+2.3 The description of the approach in section 2 is easy to understand. Consider adding brief
+comments to section 2.3 to indicate the situation in which the strategy-driven approach would be
+used.
+
+Thank you for this insight; we have added the following about when to use a strategy driven
+approach:
+
+A strategy driven approach may be desirable when an architecture strategy has been
+decided upon, or is already in place, and the design team wants to verify that the
+strategy’s downstream effects are compatible with the system, design, or requirements.
+
+2.4 Section 3 describes the literature review method that was used to populate the
+database/matrix. The process seems appropriate. Ultimately though, only 16 papers seem to
+have been used to construct the matrix, which seems a bit light. This is surprising given the
+huge amount of literature on the topic – the authors mention 4000 citations to one seminal
+publication alone. These issues are acknowledged later on, but in section 3, how can you justify
+only using 16 papers and how confident are you that the important issues are captured?
+
+We agree the use of sixteen papers is very limited. Our goal was to better understand the cause
+and effect relationships between architecture strategies and downstream effects. While this paper
+only has 16 papers in its database, it has already provided 451 relationships. We now see
+opportunities for expanding this in future work with a large language model AI in order to more
+comprehensively review the literature. As this will be a separate paper, we did not discuss it in
+detail here, but we have made it more clear that while useful information can already be gleaned
+from 16 papers, they are not considered comprehensive. Below is our improved initial
+paragraph for section 3.1:
+
+The PASE Database was built to aggregate knowledge observed from the literature
+about the downstream effects of product architecture on the development process. A
+systematic literature review was conducted by the lead author in order to find an initial
+selection of the literature for a large variety of architecture effects that could be
+processed by the research team. The papers selected were not intended to be
+
+
+
+comprehensive, but to cover a range of product architecture topics with substantial
+detail.
+
+We also made the following changes to the paragraph after Step 5 under Section 3.1:
+
+This database can be expanded upon over time using the same process above
+for adding sources and their subsequent information to the database. After the
+initial development, five more sources (Bonvoisin et al., 2016; Jiao et al., 2007;
+Farrell and Simpson, 2003; Sosa et al., 2000; Kuo et al., 2001) were processed and
+incorporated into the database, giving additional insights beyond those collected
+in the initial data. While 16 sources is a relatively small selection, over 450 unique
+relationships were identified as reported in Section 3.2, providing a significant amount of
+useful information.
+
+2.5 The approach of text analysis to link statements about cause and effect seems reasonable.
+The authors give some space to describe the process by which insights were extracted from
+their selected papers. This is good but the obvious opportunity to discuss research methods for
+textual analysis (which is common in many disciplines) is missed – there are few or no
+references supporting or justifying the research method used.
+
+We agree that we could have better explained our methods for extracting insights from the
+literature. While text analysis was not used in this paper, we do intend to use it in future work.
+For this paper, extracting the insights was intentionally done manually, to have more confidence
+in our initial dataset (see response 1.2). We have updated section 3.1 to more clearly reflect our
+method for organizing the insights into strategies and effects as shown below:
+
+Initial Literature Review and Steps for Processing Sources
+In the first step of the literature review, the influential articles The Role of Product
+Architecture in the Manufacturing Firm by Ulrich (1995) and Impact of Modularity
+Decisions on a Firm’s Economic Objectives by Hackl et al. (2020) were selected. Ulrich
+(1995) was selected as his paper is recognized as a seminal work, having over 4000
+citations. In order to include more recent efforts, the paper by Hackl et al. (2020) was
+selected as their research identified many effects of product architecture, was only two
+years old at the time of the literature review, and had already been cited over 20 times.
+Additional papers were then reviewed that were either referenced by these two
+foundational papers, or cited them. An initial selection was made of those papers based
+on keywords pertaining to product architecture in the titles (i.e. product architecture,
+components, standardization, modularity, interfaces, design, and development) resulting
+in a set of 199 papers. Next, the abstracts of all 199 papers were carefully reviewed,
+reducing the set to 45 papers the researchers believed had the greatest potential
+relevance. Finally, the bodies of the remaining articles were read, and categorized by
+which ones best explored key and varied architecture decisions, and their effects on
+downstream product development activities. As this was not intended to create a final,
+
+
+
+definitive, or comprehensive database, some subjectivity was tolerated to create this
+initial selection to then be processed.
+
+After reading the 45 papers, nine were identified as being highly likely to reveal effects of
+product architecture strategies. These nine papers, together with the two papers first
+referenced are the 11 papers from which the current PASE database was constructed.
+All 11 papers (Ulrich, 1995; Hackl et al., 2020; Brusoni et al., 2007; Clark, 1989; Danese
+and Filippini, 2010; Eppner et al., 2018; Stone and Wood, 2000; Ulrich and Seering,
+1990; Ulrich and Ellison, 1999, 2005; Wyatt et al., 2012) were read thoroughly, and had
+data extracted and organized into a database, becoming sources. This reduction in the
+number of papers to be processed was done mainly to maximize the likelihood that time
+spent extracting data would result in pertinent strategies and effects. Any of the papers
+identified at the beginning could have been processed, though may not have contained
+as many relevant statements on product architecture and its effects.
+
+The statements were printed onto 374 cards, and using the KJ method (Scupin, 1997)
+were grouped into categories, first by strategy, and then the strategies themselves were
+grouped. This was done by three researchers, all with backgrounds in mechanical
+engineering. These categorized observations were then broken down into their
+components that would make up the six rational tables of the database: Sources,
+Statements, Insights, Strategies, Effects, and Relationships, with each entry having its
+own unique identifier or identifier code. The research team decomposed the statements
+into their database components using the following steps:
+
+2.6 The approach seems broadly sensible as long as the sources aren’t questioned, but also
+raises many unanswered questions about the quality of the underpinning data: what to do if
+there are conflicting statements found in different sources? What is the quality of each source
+and what support is there for the particular statement in that source? I imagine some of the
+statements made in papers about product architectures could be throwaway comments or
+statements of opinion (or “something that is commonly known”) without basis in evidence. Just
+because someone wrote it in a paper doesn’t necessarily make it true! The authors could
+elaborate on how they dealt with such issues, which would make the paper much more
+convincing.
+
+Our team also discussed the issue of source quality and conflicting information. We made the
+careful decision to simply report on what was claimed in the literature – without attempting to
+rate or rank the quality of the claim. While we believe there is future work in being able to do
+that, we built the present paper on the assumption that peer-reviewed papers are relatively
+reliable, and our database can trace every relationship back to a source statement. We agree
+this has shortcomings and some readers may or may not agree with this approach. As they
+need to take that into consideration when using the information provided by a PASE matrix, we
+have improved the first paragraph of 3.2 to clarify this:
+
+
+
+The PASE Database is the source of information which forms a PASE matrix. At present,
+it does not contain information about the relative quality of the numerous statements
+contained therein (statements extracted directly from the literature). While such
+qualitative information could enhance the PASE database, we could not confidently
+extract that information from the literature during this study. However, the quality of the
+database itself (its construction, the amount of information within, etc.) could be
+confidently assessed in real-time using database metrics. These metrics for the
+database give insights into its health and quality, and are necessary for informed
+decision-making. These indicators for the consistency and credibility of the database
+require current, up-to-date metrics to be retrievable from the database in real time. This
+transparency is critical for user confidence.
+
+2.7 Section 3.2 has some interesting points (mainly the saturation plot) and moves towards a
+statistical view. There are a few questionable statements such as ‘reliability’ of a strategy being
+the number of sources that agree with it (without information on how the link is supported in the
+original individual sources, the raw number of supports has little value – perhaps authors simply
+state something because the idea is known and they need to mention it, regardless of whether
+they can offer actual additional support). I see what you mean but the word reliability doesn’t
+seem quite right.
+
+We agree that the term ‘reliability’ may not fully capture the concept we're trying to convey, and
+simply counting the number of sources supporting a strategy doesn't measure the quality of
+support for an insight or relationship. We have improved the introduction paragraph for section
+3.2 as seen above in response 2.6 We have also improved the “Ubiquity Ratio” paragraph in
+section 3.2 as follows:
+
+The number of sources that reference a given strategy (STR), effect (EFF), or
+relationship (REL), over the total number of sources in the database. This ratio can serve
+as a valuable tool in demonstrating the consistency of particular strategies, effects, or
+relationships found in the sources used in the database.
+
+We also agree there is a shortcoming with assessing the strength of a link or relationship.
+Currently, we do not have a way for quantifying the strength of relationships based on the
+available literature, and believe this is an area that warrants further research and development.
+We have added the following second to last paragraph in our concluding remarks:
+
+While the PASE method provides insights on strategy-effect relationships, it does not yet
+capture information on the strength of those relationships. This is an area for possible
+future research.
+
+
+
+2.8 The other aspect which raises questions is that it is not only the strategy that leads to an
+effect but how (well) it is implemented and how the suitability of a strategy or its effect might
+differ depending on design context. There is also the possibility to interpret many strategies in
+different ways. For example the strategy “use modular architecture” encompasses a massive
+array of issues and the modular architecture can be different depending on architect choices
+and module drivers selected as well as how they define and measure modularity. Similar issues
+could be raised for the effects such as ‘increases component maturity’. Yes, modularity MIGHT
+increase maturity, but not necessarily. These (slightly but not very) subtle issues aren’t really
+discussed in enough detail in the paper. Brief mention is made in section 4.2 including mention
+that the software displays the original statements from papers – this seems to be a potential
+solution, or part of one, but isn’t adequately elaborated. Examples of how it looks could be
+presented.
+
+This is an issue that we are working to better address and have also discussed at length within
+our team. As most effects are dependent upon the situation, we found it difficult to clearly and
+consistently capture the how, when and why of a strategy. We are working to make the original
+statements and sources easily available for anyone using our on-line tool so they can be
+referenced. To make this more clear we have added a second paragraph in Section 4.4
+(formerly 4.2) as written below:
+
+As a visual summary of relationships the PASE matrix is necessarily terse, and lacks
+details on how, when and why a strategy causes a certain effect. Two effects may
+appear contradictory coming from the same strategy, but generally this is due to how the
+strategy was implemented. While the relationships between strategy and effect are found
+in the PASE database’s sources, they do not always offer more detailed explanations. A
+designer alerted to an unfamiliar relationship by a PASE matrix may have to research it
+on their own.
+
+Reviewer 3
+3.1 This paper introduces the Product Architecture Strategy and Effect (PASE) Matrix as a
+means of exploring product architecture design decisions. The PASE Matrix approach
+aggregates and correlates ‘strategies of interest’ and ‘effects of interest’ that have been
+identified by the authors from the product architecture literature. Users of the PACE Matrix are
+shown related effects or strategies that they may not have originally considered. The authors
+describe the development of this approach and introduce metrics that can be used for assessing
+the maturity and robustness of the database.
+
+The development of the PASE Matrix is intriguing and the continued development and testing of
+the database could provide a fascinating toolkit for exploring product architecture decisions. I
+can envision design studies centered around post-mortem analyses of product architecture
+decisions where decision-makers are asked how the PASE Matrix may have changed their
+
+
+
+course of action. I can also envision design studies centered around real-time decision-making
+studies that explore how the identified ‘strategies’ and ‘effects’ of interest (and those that are
+unexpected but identified by PASE) influence decision-making.
+
+Thank you for your time reviewing this manuscript. Your ideas on real-time-decision-making are
+interesting areas for potential future study we had not yet considered in much depth.
+
+3.2 While I do like this paper and think that it contributes to design science, I have a few
+recommendations for how a restructuring of content could make the paper stronger:
+
+The authors have missed a significant opportunity to draw a parallel to existing design tools.
+Specifically, I was surprised to see that the authors had not made a reference, oranalogy, to
+TRIZ. While these two approaches (TRIZ and PASE) have a different focus they have
+conceptual and structural overlap. Both:
+
+● Have matrix elements that are populated by an exploration of products, patents, and
+literature where fundamental principles have been distilled by the creators of the
+approach.
+
+● Are intended to be a decision-support tool that identifies principles that may have been
+missed or overlooked by the designer.
+
+● Support “earlier” design decisions, such as those in concept development where the
+interactions and interfaces between components/product architecture elements may not
+be completely understood.
+
+Thank you for this insight. Our team also noted some of the similarities to TRIZ during our initial
+investigations, such as intent to aid in early design decisions. Below we have improved the
+second to last paragraph of the Introduction below:
+
+As part of a method to make cause-and-effect insights gleaned from published
+findings more accessible for use by designers, this paper introduces the Product
+Architecture Strategy and Effects (PASE) matrix. A method for aggregating strategies
+and effects from the literature on product architecture into a structured data-set known
+as the PASE Database is also shown. This builds a digital system enabling visualization
+of the cause-and-effect relationships in a way that facilitates design decisions, and
+identifies areas where knowledge is potentially lacking. This method shares similarities to
+TRIZ (Moehrle 2005) because it aids early design decisions based on patterns emerging
+from the literature. Unlike TRIZ, the PASE method is not centered on conflict resolution.
+Instead, the PASE method is centered on revealing cause-and-effect relationships related to
+product architecture decisions.
+
+3.3 I recommend moving Sections 2.2 and 2.3 to later in the paper when the authors
+demonstrate the application of the approach. Section 2.1 could become all of Section 2. I make
+this recommendation because the meat of the paper, in my opinion, is Section 3. The
+methodology feels a bit lost in the middle of the paper and I would like to see a stronger
+
+
+
+emphasis placed on how strategies and effects were identified and consolidated from the
+literature review.
+
+Thank you.
+
+Relative to the last sentence of R3.3 above, we have discussed consolidation below in our
+response to comment R3.6.
+
+To prevent the methodology from feeling lost in the middle of the paper we have moved
+Sections 2.2 and 2.3 – unchanged – to the beginning of Section 4 as suggested, with section
+4.1 now becoming section 4.3. The introductory paragraph for Section 4 has been improved as
+shown below:
+
+Section 4
+In this section, we discuss the two approaches for creating PASE matrices and
+demonstrate how a design team could use them to aid in finding and evaluating
+architecture strategies. Importantly, we show how the matrix can be used to mitigate
+undesirable effects.
+
+3.4 With a stronger focus on Section 3, I would like to see more information about how the
+authors made decisions around filtering down the papers used for identified strategies and
+effects. For example:
+
+● What keywords were used to identify the set of 199 papers?
+● What exclusion criteria were used to reduce the 199 papers to 45 papers? Did this
+
+process involve multiple authors? Was there discussion about whether a paper should
+be included or excluded?
+
+● How did the authors decide to reduce the 45 papers down to 9? The authors mention
+that they use categories of which explored key architecture decisions. What does this
+mean?
+
+● Were papers excluded because of resources available (time, researchers) or because
+they should not be considered in future development of the PASE Matrix? This becomes
+an important question when we consider the future development and expansion of the
+matrix. Should these papers be revisited or do they not contain useful information?
+Highlighting this is important for readers, and researchers, who want to use this tool or
+develop it further.
+
+These are important questions that we see were not clearly addressed in the paper. The intent
+was to find around ten papers with a significant amount of information on a variety of topics
+within product architecture. All of the papers initially identified in the literature review could have
+been used in this database, as they discussed some part of product architecture. The original
+selection of 199 papers was reduced to just nine due to limited man-hours to read and process
+them. Below we have improved the initial paragraph as can be seen above in our response 2.5.
+
+
+
+3.5 I would like to see more detail on the type of statements pulled from the text and how these
+statements were decomposed into insights. The authors also should provide additional clarity in
+Section 3.1 about the use of multiple readers/raters. Was the only paper coded by multiple
+readers the Jiao et al paper? There are established approaches for describing how text
+elements are identified from a document in a research study, and this paper doesn’t feel like it
+follows those established practices. Commenting earlier in the step-process about how many
+readers were used on each paper, inter-rater reliability assessment, and background/expertise
+of the coders should occur.
+
+We agree this information should be addressed sooner. In response 3.7 we give some specific
+examples of a statement pulled from the literature and how it is decomposed. We have
+improved paragraph 3.1 as shown in responses 2.5 and 3.8 to add clarity on the number of
+readers and that Jiao et al was the only one specifically tested.
+
+3.6 Did the authors consolidate statements that were viewed as similar? Perhaps as an
+appendix or supplemental material it would be nice to see a full list of coded statements/insights
+that currently make up the PASE Matrix.
+
+Thank you. We agree that the data should be publicly available and are making it available at
+the same location as the website GUI. To make this more clear, we have improved the second
+paragraph of Section 2.1 as follows:
+
+In order to build a PASE matrix, an existing database of strategies, effects, and their
+relationships is required. Our initial review of the literature revealed more than two dozen
+strategies and over 200 effects. These were used to construct the digital PASE
+Database, which was in turn employed to form the PASE matrices found in the
+remainder of this paper. Because the database contains several hundred relationships, a
+graphical interface was developed to interact with it and to automatically construct PASE
+matrices based on user selections. This interface is known as the PASE Matrix
+Generator and can be accessed through the following URL:
+https://www.design.byu.edu/resources/pasematrix. The rational tables used to construct
+the database are also available for download at this site.
+
+3.7 I really like Figure 3. In the text, I would like to see a text-driven example of Figure 3 as well.
+Could a potential statement, insight, etc. be listed with each step?
+
+We agree that a text-driven example of Figure 3 would significantly clarify the process of
+gathering and consolidating data in order to produce a PASE Database. The following is text
+from Subsection 3.1. Text-driven examples have been added to each step of the process.
+
+
+
+1. Read and Identify Potential Statements: A statement is any quotation from a source in
+which at least one specific decision regarding product architecture led to, or was said to
+lead to, one or more effects.
+
+Example Statement
+ST-001: “Although consumption and wear is frequently accommodated through a
+modular design with replaceable parts another popular strategy is to dramatically lower
+the cost of the entire product, often through an integral architecture, such that the entire
+product can be discarded or recycled.”
+
+2. Decompose Statements into Insights: An insight is a one-to-one pairing of an
+architecture strategy and one of its effects found within a statement. Wording was kept
+as close to the original statement as possible, while reorganizing it into a
+cause-and-effect sentence.
+
+Example Insights (from Statement ST-001)
+I-001: Modular architecture can circumvent wear.
+I-002: Integral architecture can circumvent wear.
+I-003: Integral architecture can lower the cost of the entire product.
+I-004: Integral architecture can facilitate disposable design.
+
+3. Group Insights & Consolidate: Insights were grouped by their causes, and had their
+effects compared. Each insight was constrained to be unique and duplicates within a
+single source were ignored, as each source must be limited to affirming any specific
+insight only once. If several statements gave the same insights, then the statements
+were consolidated, leaving a single statement pointing to a unique insight within each
+source.
+
+Example Consolidation (I-005 is from another statement)
+I-003: Integral architecture can lower the cost of the entire product.
+I-005: Integral architectures can allow for a lower cost product.
+
+Note: Similar or identical insights from different sources are not removed as they
+are seen as multiple sources affirming the same idea.
+
+4. Identify standard strategies, effects, and relationships: From the groupings of
+insights, the causes and effects were refined and their language standardized before
+these parts were placed in the database as architecture strategies and their effects. This
+helped reduce redundancy within the database, as similar ideas from different sources
+were recognized despite variation in the wording and terminology used by the various
+authors.
+
+Next, the strategy and effect pair identified from the insight was recorded as a
+relationship. If in the database there was no existing strategy or effect that adequately fit
+the cause and/or effect, a new one was added to the corresponding table in the
+database. If there were identical relationships, i.e. two insights from the same source
+
+
+
+communicated the same idea, one was removed as in step 3. If there was no existing
+relationship for the insight (such as when a new strategy or effect was described), then a
+new relationship was created. Relationships consist of simply their own identifier code,
+and the identifier codes for a strategy and an effect. Every insight was linked to a
+relationship’s identifier code.
+
+Example Strategy, Effect, and Relationship Identification
+Strategies
+ST-001 Use Modular Architecture
+ST-002 Use Integral Architecture
+Effects
+E-001 Decreases wear concerns
+E-002 Decreases cost per unit
+E-003 Increases Disposability
+Relationships
+R-001: (ST-001 + E-001)
+R-002: (ST-002 + E-001)
+R-003: (ST-002 + E-002)
+R-004: (ST-001 + E-003)
+
+Note: Insights are the key element in the database pointing either forward to a
+relationship or back towards the statements and sources from which they
+originated.
+
+5. Verify and record all identified components: All new strategies, effects and
+relationships were compared with any previously recorded in the database to again
+verify no duplicates had been included. All insights were ensured they linked to an
+identified relationship, and that relationships contained both a strategy and effect. All
+strategies, effects, insights, relationships, statements and the source were verified
+having been recorded in their own corresponding table with their own unique identifier
+code.
+
+Example Verification: R-002:(ST-002 + E-001), R-005:(ST-002 + E-001)
+
+Special Note: All of the examples in the above steps are taken from Ulrich 1995. The
+identifiers follow the format used in the PASE Database and have been reassigned
+values that correspond to the scope of this example.
+
+3.8 Can the authors explain the significant variability in Table 1 between the two coders? Did
+they have different backgrounds? Were there trends that explain why different statements and
+insights were coded by each? Was there a discussion where the unique statements and insights
+were debated?
+
+
+
+This is indeed an important issue to address, especially as we endeavor to expand the PASE
+Database. The following are the paragraphs on researcher reliability, at the end of Section 3.1,
+edited to address these concerns.
+
+Researcher Reliability
+The experience and number of people used to identify statements from each paper is
+another factor that may introduce variation in which statements are recorded. In order to
+better understand the implications of this variation, the paper by Jiao et al. (2007) was
+independently processed as a source by two researchers according to the steps
+described. Both Researcher 1 and Researcher 2 had technical backgrounds in
+engineering. Though both had previously coded sources into the PASE Database,
+Researcher 2 had about 40 man-hours more than Researcher 1. The information added
+was then reviewed and compared, and key differences are noted in Table 1.
+
+In total, the researchers recorded 33 distinct excerpts from Jiao et al. (2007).
+These excerpts were evaluated to see if they met the definition of a statement, i.e. they
+included at least one specific decision regarding product architecture that led to, or was
+said to lead to, one or more effects. This evaluation was completed by Researcher 2,
+with oversight and guidance from the primary author. Debate was an important tool in
+separating excerpts related to business or design strategies and effects from product
+architecture strategies and effects.
+
+Of the 33 excerpts recorded, 19 were found to meet the definition of a Statement.
+Only seven of these 19 statements were noted by both researchers. Five of the
+statements were only found by Researcher 1, and another seven were unique to
+Researcher 2. Statements however, do not correlate one to one with insights. The 19
+statements contained 44 insights, of which 23% were unique to Researcher 1, 36% to
+Researcher 2 and 41% were from the statements found by both. This indicates that
+anywhere from a quarter to one third of the data could have been lost (or not collected)
+had only one researcher been used on this source.
+
+Regarding the excerpts that were rejected, six were unique to Researcher 1, two
+were unique to Researcher 2, and six were annotated by both. Thus the ratio of
+statements to total excerpts recorded was 50% and 64% for Researchers 1 and 2.
+
+Due to the small dataset, no pattern was discernible that might explain the
+variation between researchers. That said, this exercise demonstrates the benefit of
+redundant researchers in maximizing the amount of data extracted from a source. This
+benefit does not extend to the quality of statements recorded. Regardless of the number
+of individuals used, the steps for processing data sources must be followed and debated
+to maintain the quality of relationships in the database.
+
+
+
