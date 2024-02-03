@@ -1,7 +1,10 @@
 # pip install PyPDF2
-# Ulrich_Beyond Make‐Buy_Internalization and Integration of Design and Production_2009.pdf
+# Save the source file by its source number, ie: sr1, sr2, sr16, etc. ".pdf"
 import PyPDF2
 import re
+
+# Ensure source is the same prefix as you saved the file under (ie: sr1 if sr1.pdf, etc.)
+source = 'sr4'
 
 def extract_text_from_pdf(pdf_path):
     with open(pdf_path, 'rb') as file:
@@ -32,14 +35,14 @@ def split_text_into_sections(text, section_size, overlap_size):
 
     return sections
 
-def save_sections_to_files(sections, output_prefix='section'):
+def save_sections_to_files(sections, output_prefix=f'{source}'):
     for i, section in enumerate(sections):
         output_filename = f'{output_prefix}_{i + 1}.txt'
         with open(output_filename, 'w', encoding='utf-8') as file:
             file.write(section)
 
 if __name__ == "__main__":
-    pdf_path = 'Ulrich_Beyond Make‐Buy_Internalization and Integration of Design and Production_2009.pdf'  # Replace with the path to your PDF file
+    pdf_path = f'{source}.pdf'  # Replace with the path to your PDF file
     section_size = 3000
     overlap_size = 100
 
@@ -47,3 +50,4 @@ if __name__ == "__main__":
     cleaned_text = preprocess_text(pdf_text)
     text_sections = split_text_into_sections(cleaned_text, section_size, overlap_size)
     save_sections_to_files(text_sections)
+    print('Files saved under {source}.text')

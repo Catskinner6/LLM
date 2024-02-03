@@ -244,6 +244,8 @@ statements of opinion (or “something that is commonly known”) without basis 
 because someone wrote it in a paper doesn’t necessarily make it true! The authors could
 elaborate on how they dealt with such issues, which would make the paper much more
 convincing.
+Here's where you load your own data. You want the data formatted in a .jsonl file, structured something like this:
+
 
 Our team also discussed the issue of source quality and conflicting information. We made the
 careful decision to simply report on what was claimed in the literature – without attempting to

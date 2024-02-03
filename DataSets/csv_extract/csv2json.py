@@ -15,7 +15,10 @@ reader = csv.DictReader(csvfile)
 
 for row in filter(lambda row: row[selected_column].strip(), reader):
     # Create a dictionary with only the selected column
-    selected_data = {'output': row[selected_column]}
+    selected_data = {
+        'input': 'text chunks',
+        'output': row[selected_column]
+    }
     
     # Write the selected data to the JSON file
     json.dump(selected_data, jsonfile)
