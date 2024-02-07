@@ -1,3 +1,4 @@
+# Convert a CSV table to a JSON table in a new file
 
 import csv
 import json
@@ -5,7 +6,7 @@ import json
 
 csv_file_path = 'r1.csv'  # Replace with the path to your CSV file
 selected_column = 'Statement'  # Replace with the name of the column you want to keep
-output_json_file = 'statements.json'  # Replace with the desired output JSON file path
+output_json_file = 'train_phase0.json'  # Replace with the desired output JSON file path
 
 csvfile = open(csv_file_path, 'r', newline='', encoding='utf-8')  # Specify encoding if needed
 jsonfile = open(output_json_file, 'w')
@@ -16,8 +17,8 @@ reader = csv.DictReader(csvfile)
 for row in filter(lambda row: row[selected_column].strip(), reader):
     # Create a dictionary with only the selected column
     selected_data = {
-        'input': 'text chunks',
-        'output': row[selected_column]
+        'text': row[selected_column],
+        'label': 1
     }
     
     # Write the selected data to the JSON file
