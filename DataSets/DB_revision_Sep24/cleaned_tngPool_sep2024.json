@@ -1,1 +1,2238 @@
+[
+  {
+    "statement": "Extant literature suggests performance improvements result as firms increase modularity, possibly by mitigating the impact of variety on the production process (Beekun and Glick, 2001; Salvador, Forza, and Rungtusanatham, 2002).",
+    "insights": [
+      "Modularity Increases performance of the firm.",
+      "Modularity mitigates the impact of variety on production."
+    ]
+  },
+  {
+    "statement": "For example, Teece describes how the modularization of computer architecture enabled explosive growth in the number and size of firms in the industry",
+    "insights": [
+      "Modular architecture allows explosive growth in the number of firms in an industry.",
+      "Modular architecture allows explosive growth in the size of firms in an industry."
+    ]
+  },
+  {
+    "statement": "This loose coupling, facilitated by standardized interfaces, enables the production of a large number of end items through the reconfiguration of a comparatively smaller set of inputs and thus is one of the precursors to mass customization (Worren, Moore, and Cardona, 2002)",
+    "insights": [
+      "Using standardized interfaces facilitates loose coupling.",
+      "Decreasing the degree of coupling increases reconfigurability.",
+      "Decreasing the degree of coupling facilitates mass production."
+    ]
+  },
+  {
+    "statement": "Carey (1997) adds that product modularity entails subsystems that can be assembled and tested prior to integration.",
+    "insights": [
+      "Modularity allows subsystem testing."
+    ]
+  },
+  {
+    "statement": "Thus, product and process modularity should enable a company to capture a larger share of the market or to successfully compete in more market segments by cost-efficiently tailoring products to the needs of customers. This has clear implications for growth in market share, ROS, and ROI.",
+    "insights": [
+      "Modularity increases market capture capacity of the firm.",
+      "Modularity enables cost-effective product tailoring.",
+      "Modularity increases return on sales (ROS).",
+      "Modularity increases return on investment (ROI)."
+    ]
+  },
+  {
+    "statement": "Product modularity has a positive effect on firm growth performance.",
+    "insights": [
+      "Modularity increases firm growth performance."
+    ]
+  },
+  {
+    "statement": "Product modularity simplifies product customization through the use of reconfigurable modules to create new, possibly unique variants to meet customer demand.",
+    "insights": [
+      "Modularity increases customizability."
+    ]
+  },
+  {
+    "statement": "Product modularity has a positive effect on manufacturing agility.",
+    "insights": [
+      "Modular architecture increases manufacturing agility."
+    ]
+  },
+  {
+    "statement": "In the best-fitting model, product modularity had a significant positive impact on process modularity.",
+    "insights": [
+      "Modular Architecture increases process modularity."
+    ]
+  },
+  {
+    "statement": "The current research suggests that increasing modularity in product structure leads to increasing modularity in process infrastructure. Since product modularity also leads to enhanced firm performance, the results of this research suggest that the low\u2013low alignment cannot engender better firm performance.",
+    "insights": [
+      "Modular Architecture increases process modularity.",
+      "Modular Architecture increases performance of the firm."
+    ]
+  },
+  {
+    "statement": "Product modularity had direct and positive effects on manufacturing agility, process modularity, and growth performance.",
+    "insights": [
+      "Modular architecture increases manufacturing agility.",
+      "Modular architecture increases process modularity.",
+      "Modular architecture increases firm growth performance."
+    ]
+  },
+  {
+    "statement": "A way product modularity may facilitate manufacturing agility is through product decomposability.",
+    "insights": [
+      "Modular architecture allows product decomposability.",
+      "Product decomposability increases manufacturing agility."
+    ]
+  },
+  {
+    "statement": "Modules built in parallel, without adverse assembly consequences, can decrease manufacturing lead time.",
+    "insights": [
+      "Modular architecture facilitates parallel assembly.",
+      "Modular architecture decreases manufacturing time."
+    ]
+  },
+  {
+    "statement": "Decomposability facilitates use of a postponement strategy, which often minimizes inventory carrying requirements and reduces overall cost (Swaminathan and Tayur, 1998).",
+    "insights": [
+      "Decomposability facilitates postponement.",
+      "Decomposability (with postponement) decreases inventory requirements.",
+      "Decomposability (with postponement) decreases cost."
+    ]
+  },
+  {
+    "statement": "Decomposability may enable forecasting of modules rather than finished goods, thereby providing better inventory management.",
+    "insights": [
+      "Decomposability allows module forcasting.",
+      "Decomposability increases inventory management effectiveness."
+    ]
+  },
+  {
+    "statement": "Product modularity may drive process modularity because a firm is configuring its production process to match product architectures; that is, a conscious choice is made to align manufacturing priorities with design choices.",
+    "insights": [
+      "Modular architecture increases firm modularity."
+    ]
+  },
+  {
+    "statement": "Product modularity can increase volume and pricing power because more customers are attracted, then satisfied, via customization and typically will pay more for the customized product (or, given price parity, customers are more likely to choose the customized product).",
+    "insights": [
+      "Modular architecture increases production volume.",
+      "Modular architecture increases pricing power."
+    ]
+  },
+  {
+    "statement": "However, it is clear that an overarching premise of the extant literature, namely that modularity leads to improved performance, is supported by the findings.",
+    "insights": [
+      "Modular architecture increases performance of the firm."
+    ]
+  },
+  {
+    "statement": "product modularity positively impacted both process modularity and manufacturing agility,",
+    "insights": [
+      "Modular architecture increases process modularity.",
+      "Modular architecture increases manufacturing agility."
+    ]
+  },
+  {
+    "statement": "Product modularity facilitates process modularity, engenders manufacturing agility, and improves growth performance in ROI, ROS, and market share.",
+    "insights": [
+      "Modular architecture increases process modularity.",
+      "Modular architecture increases manufacturing agility.",
+      "Modular architecture increases return on sales (ROS).",
+      "Modular architecture increases market capture capacity of the firm."
+    ]
+  },
+  {
+    "statement": "fully integral products require changes to every component to effect change in any single functional element.",
+    "insights": [
+      "Fully integral architecture requires changes to every component to effect change in any single functional element."
+    ]
+  },
+  {
+    "statement": "modular architecture allows the required changes that are typically associated with the product's function to be localized to the minimum possible number of components. ",
+    "insights": [
+      "Modular architecture allows the required changes to be localized."
+    ]
+  },
+  {
+    "statement": "Although consumption and wear is frequently accommodated through a modular design with replaceable parts another popular strategy is to dramatically lower the cost of the entire product, often through an integral architecture, such that the entire product can be discarded or recycled.",
+    "insights": [
+      "integral architecture can circumvent wear.",
+      "integral architecture can enable economical whole-product discard/recycling."
+    ]
+  },
+  {
+    "statement": "In each of these cases, changes to the product are most easily accomodated through modular architecture: upgrades, add-ons, adaptation, wear, consumption, and flexibility",
+    "insights": [
+      "modular architecture allows changes to the product through flexibility.",
+      "modular architecture allows changes to the product through adaptation.",
+      "modular architecture allows changes to the product through upgrades.",
+      "modular architecture allows changes to the product through wear."
+    ]
+  },
+  {
+    "statement": "Sanchez and Sudharashan describe a development strategy they call real-time market research. Under this scheme, the firm introduces a product, gauges the market response, then develops and launches an incrementally-improved product extremely quickly. A modular architecture is essential to being able to quickly change the product in this way.",
+    "insights": [
+      "Modular architecture allows for design changes based on market feedback."
+    ]
+  },
+  {
+    "statement": "Modularity of the product allows the variety to be created at final assembly, the last stage of the production process.",
+    "insights": [
+      "Modular architecture allows the postponement strategy."
+    ]
+  },
+  {
+    "statement": "Modularity allows for Variety to be created by combinations of building blocks",
+    "insights": [
+      "Modular architecture allows combinations of building blocks."
+    ]
+  },
+  {
+    "statement": "Process flexibility allows economical high-variety production of a product with an integral architecture.",
+    "insights": [
+      "Integral architecture requires flexible manufacturing methods to deliver variety."
+    ]
+  },
+  {
+    "statement": "The components for the modular design could be produced with flexible production equipment, eliminating the need for the inventories and tooling expense.",
+    "insights": [
+      "modular architecture can eliminate tooling expenses.",
+      "modular architecture can eliminate the need for the inventories."
+    ]
+  },
+  {
+    "statement": "With a modular product architecture, product variety can be achieved with or without flexible component production equipment. ",
+    "insights": [
+      "Modular architecture can achieve variety."
+    ]
+  },
+  {
+    "statement": "A modular architecture increases the likelihood that a component will be commonly useful",
+    "insights": [
+      "Modular architecture facilitates part resuse and carry-over."
+    ]
+  },
+  {
+    "statement": "Components of a product exhibiting an integral architecture would only be potentially useful in other products containing the exact combination of functional elements, or parts of functional elements, implemented by the component.",
+    "insights": [
+      "Integral architecture limits the usefulness of its components in other products to those that contain the exact combination of functional elements."
+    ]
+  },
+  {
+    "statement": "Under most circumstances, a standard componentis less expensive than a component designed and built for use in only one product.",
+    "insights": [
+      "Products  with standard components are less expensive to develop.",
+      "Products with standard components are less expensive to produce."
+    ]
+  },
+  {
+    "statement": "Component standardization can decrease costs due to economies of scale, but may also lead increased costs due to excess component capability",
+    "insights": [
+      "Standardization may increase cost due to oversizing.",
+      "Standardization may increase oversizing.",
+      "Component standardization explits economies of scale."
+    ]
+  },
+  {
+    "statement": "Standard components, in general, exhibit higher performance (for a given cost) than unique designs.",
+    "insights": [
+      "Standard Components increase specific function or local performance more than unique designs."
+    ]
+  },
+  {
+    "statement": "standardization may act as an inertial force preventing firms from adopting a better component technology because of compatibility issues",
+    "insights": [
+      "Standardization increases the potentioal of Develpment Strategy Lock-In."
+    ]
+  },
+  {
+    "statement": "The use of standard components can lower the complexity, cost, and lead time of product development.",
+    "insights": [
+      "Standardization can decrease development costs.",
+      "Standardization can decrease product complexity.",
+      "Standardization can decrease development time.",
+      "The use of standard components can decrease development costs."
+    ]
+  },
+  {
+    "statement": "Modular architectures allow for optimization of local performance characteristics",
+    "insights": [
+      "Modularity allows local performance optimization."
+    ]
+  },
+  {
+    "statement": "Global performance characteristics can only be optimized through an integral architecture",
+    "insights": [
+      "Integral architecture optimizes global performance characteristics."
+    ]
+  },
+  {
+    "statement": "A modular architecture may allow the use of a standard component",
+    "insights": [
+      "Modular architecture allows use of OTS components."
+    ]
+  },
+  {
+    "statement": "The use of a standard component exploits the performance refinements the supplier of this component has been able to make over the entire history of the component's use",
+    "insights": [
+      "Standardization increases component reliability and maturity."
+    ]
+  },
+  {
+    "statement": "Modular architectures allow components to be designed, tested, and refined in a focused way without disruptions and distractions arising from the need to address either interface coupling or other functional elements",
+    "insights": [
+      "Modular archetictures decrease development complexity.",
+      "Modular architectures decreases development time.",
+      "Modular architecture allows independent/parallel testing for components."
+    ]
+  },
+  {
+    "statement": "I illustrate the role [integral] architecture plays a role in global performance with the specific case of optimizing performance by minimizing the size and mass of a product; similar arguements can be made about other physical properties, such as natural frequency of vibration or electromagnetic radiation. ",
+    "insights": [
+      "Integral architecture decreases the mass of a product.",
+      "Integral architecture decreases the size of a product.",
+      "Integral architecture optimizes the natural frequencies of vibration or electromagnetic radiation of a product."
+    ]
+  },
+  {
+    "statement": "Two design strategies are frequently employed to minimize mass or size: function sharing and geometric nesting",
+    "insights": [
+      "Function Sharing is frequently employed to minimize mass.",
+      "Function Sharing is frequently employed to minimize size.",
+      "Geometric Nesting is frequently employed to minimize mass.",
+      "Geometric Nesting is frequently employed to minimize size."
+    ]
+  },
+  {
+    "statement": "An unfortunate consequence of nesting is the coupling of interfaces between components, the other hallmark of an integral architecture.",
+    "insights": [
+      "Geometric nesting causes coupling of the interfaces between components."
+    ]
+  },
+  {
+    "statement": "Integral architectures are sometimes employed to achieve very low unit costs, such as are required for disposable products",
+    "insights": [
+      "Integral architectures are employed to decrease production costs."
+    ]
+  },
+  {
+    "statement": "Modular architecture prefers a heavy weight system architect as team leader during the system-level design phase",
+    "insights": [
+      "Modular architecture prefers a strong system architect as team leader during product development."
+    ]
+  },
+  {
+    "statement": "Integral architecture prefers a heavy weight system integrator as a team leader durring the system-level design phase",
+    "insights": [
+      "Integral architecture prefers strong sytem integrator as team leader during product development."
+    ]
+  },
+  {
+    "statement": "Modular architecture requires mapping functional elements to components during the system-level design phase",
+    "insights": [
+      "Modular architecture requires mapping functional elements to components during the system level design."
+    ]
+  },
+  {
+    "statement": "Modular architecture requires defined interface standards and protocols in system-level design phase.",
+    "insights": [
+      "modular architecture requires better defined interface standardization and protocols."
+    ]
+  },
+  {
+    "statement": "Modular architecture allows division of effort to specialists during the system-level design phase.",
+    "insights": [
+      "Modular architecture allows division of effort to specialists during the system-level design."
+    ]
+  },
+  {
+    "statement": "Integral architecture prefers to assign the subsystems to multidisciplinary teams during the system-level design phase",
+    "insights": [
+      "Integral architecture increases the need for multi-disciplinary teams during the system-level design phase."
+    ]
+  },
+  {
+    "statement": "Integral architecture requires constant interaction to evaluate performance and to manage implications of design changes during the detailed design phase",
+    "insights": [
+      "The use of integral architecture increases team integration."
+    ]
+  },
+  {
+    "statement": "Modular architecture allows for design to be performed by supplier-like entities during the detailed design phase.",
+    "insights": [
+      "Modular architecture allows for out-sourcing of design during the detailed design phase."
+    ]
+  },
+  {
+    "statement": "Modular architecture allows component testing to be done independently during the detailed design phase.",
+    "insights": [
+      "Modular architecture allows for independent testing for components during the detailed design phase."
+    ]
+  },
+  {
+    "statement": "Modular architecture requires more more emphasis on the system-level design and planning phase",
+    "insights": [
+      "Modular architecture requires more more emphasis on the system-level design and planning phase."
+    ]
+  },
+  {
+    "statement": "Integral architecture absorbs relatively less effort during system-level design, as the focus is on establishing clear targets for the performance of the overall system and on dividing the system into a relatively small number of integrated subsystems. ",
+    "insights": [
+      "Integral architecture decreases the product development complexity."
+    ]
+  },
+  {
+    "statement": "modular architecture can allow detailed design of each component to proceed almost independently and in parallel",
+    "insights": [
+      "Modular architecture allows independent and parallel development of components."
+    ]
+  },
+  {
+    "statement": "For integral architecture, component designers all form a 'core team' and interact continually",
+    "insights": [
+      "Integral architecture causes a core team to form with continual interaction."
+    ]
+  },
+  {
+    "statement": "With Integral architecture - Testing of components cannot be completed in isolation; subsystems of components must be assembled and tested as a whole. ",
+    "insights": [
+      "Integral architecture decreases the independnt testing ability of components."
+    ]
+  },
+  {
+    "statement": "For the modular product, product testing and refinement is a checking activity The tests are intended to detect unanticipated interactions among the components. These interactions are viewed as 'bugs' and their resolution is usually localized to changes to one or two components.",
+    "insights": [
+      "Modular architecture increases checking and debugging in testing phase."
+    ]
+  },
+  {
+    "statement": "For the integral product, product testing and refinement is a tuning activity. If the product performance must be altered in some way, changes are likely to be required to many components",
+    "insights": [
+      "Integral architecture increases tuning activities during the testing phase."
+    ]
+  },
+  {
+    "statement": "Highly modular designs allow firms to divide their development and production organizations into specialized groups with a narrow focus & may also extend to the supplier network of the firm.",
+    "insights": [
+      "Modular architecture allows networks of specialized firms and suppliers to develop."
+    ]
+  },
+  {
+    "statement": "[Modular architecture facilitates specialization within the firm and its suppliers] Such specialization may facilitate the development of deep expertise relative to a particular functional element and its associated component.",
+    "insights": [
+      "Modular architecture increases specialization and expertise of firms and organizations."
+    ]
+  },
+  {
+    "statement": "Modular architectures may require better systems engineering and planning skills, ",
+    "insights": [
+      "Modular architectures require better systems engineering and planning skills."
+    ]
+  },
+  {
+    "statement": "Integral architectures may require better coordination and integration skills. ",
+    "insights": [
+      "Integral architectures require better coordination and integration skills."
+    ]
+  },
+  {
+    "statement": "Modular architecture allows functional change to be made to a product in the field.",
+    "insights": [
+      "Modular architecture allows functional change to a product in the field."
+    ]
+  },
+  {
+    "statement": "Integral architecture causes variety to not be feasible without flexible component production processes.",
+    "insights": [
+      "Integral architecture decreases the amount of product variants."
+    ]
+  },
+  {
+    "statement": "Products can be assembled in a combinatorial fashion from a relatively small set of component building blocks to create variety",
+    "insights": [
+      "Modular architecture increases product variety."
+    ]
+  },
+  {
+    "statement": "Slot and bus modular architecture causes variety to be confined to the choices of components within a pre-defined overall product structure. One-to-one mapping of functional elements to components prevents function sharing-the simultaneous implementation of more than one functional element by a single component-potentially resulting in physical redundancy. Standardized interfaces (in Buss Modularity) may result in additional redundancy and physical overhead.",
+    "insights": [
+      "Buss modularity decreases component/module variety.",
+      "Buss modularity increases redundancy.",
+      "Buss modularity results in additional physical overhead costs.",
+      "Slot modularity decreases component/module variety.",
+      "Slot modularity increases redundancy."
+    ]
+  },
+  {
+    "statement": "Modular-Sectional architecture allows variety in overall structure of the product possible",
+    "insights": [
+      "Sectional modularity allows for product stucture variety."
+    ]
+  },
+  {
+    "statement": "Modular architecture allows components to be standardized across a product line",
+    "insights": [
+      "Modular architecture allows for standardization of components."
+    ]
+  },
+  {
+    "statement": "Modular architecture allows firms to use standard components provided by suppliers.",
+    "insights": [
+      "The use of modular architecture allows firms to use standard components.",
+      "The use of modular architecture allows out-sourcing of production."
+    ]
+  },
+  {
+    "statement": "Modular Architecture allows interfaces to adhere to an industry standard",
+    "insights": [
+      "Modular architecture allows interfaces to be standardized."
+    ]
+  },
+  {
+    "statement": "Modular architectures may require additional mass and space to decouple interfaces",
+    "insights": [
+      "Modular architectures may require additional mass.",
+      "Modular architectures may require additional size."
+    ]
+  },
+  {
+    "statement": "Modular Architecture, when mapped with one function to each component, prevents function sharing, potentially resulting in physical redundancy",
+    "insights": [
+      "Modular architecture, when mapped with one function to each component, prevents function."
+    ]
+  },
+  {
+    "statement": "A potential negative implication of a modular product architecture is the risk of creating organizational barriers to architectural innovation.",
+    "insights": [
+      "Modular architecture increases organizational barriers.",
+      "Modular architecture may result in the decrease of product innovation."
+    ]
+  },
+  {
+    "statement": "Modular Architecture requires the top-down creation of a global product architecture.",
+    "insights": [
+      "Modular architecture requires top-down architecture."
+    ]
+  },
+  {
+    "statement": "A modular architecture enables a bureaucratic approach to organizing and managing development. This approach, for relatively well understood technologies, allows the complexity of the product development process to be dramatically reduced",
+    "insights": [
+      "Modular architecture increases management efficiency.",
+      "Modular architecture enables a bureaucratic approach to management."
+    ]
+  },
+  {
+    "statement": "Modularization introduces a variety of products to different markets by reducing the internal variety of components and processes of a company",
+    "insights": [
+      "Modular architecture increases product variety.",
+      "Modular architecture decreases the variety of production processes."
+    ]
+  },
+  {
+    "statement": "Different companies undertake modularization efforts for different reasons, ... have shown reductions in costs and development times and ... have shown the higher agility from modularity",
+    "insights": [
+      "Modular architecture has shown reduction in development costs.",
+      "Modular architecture has shown reduction in development time.",
+      "Modular architecture increases ability for adaption to new applications.",
+      "Modular architecture increases adaptability to major unexpected change in environment."
+    ]
+  },
+  {
+    "statement": "Modularity can reduce the time for new product development",
+    "insights": [
+      "Modular architecture can reduce product development time."
+    ]
+  },
+  {
+    "statement": "We found an increase in initial time investment for the development of product families, leading to an increased initial time to market but also an increase of commonality and component reuse. This lowered development costs per unit and reduced component variety , leading to a smaller variety of production processes and subsequent lower costs.",
+    "insights": [
+      "Modular architecture increases initial time to market.",
+      "Modular architecture increases commonality and component reuse.",
+      "Modular architecture decreases development cost per unit."
+    ]
+  },
+  {
+    "statement": "Modularity can cause longer development times and greater efforts needed for the initial modular architecture or platform",
+    "insights": [
+      "Modular architecture causes longer development times.",
+      "Modular architecture causes increased initial and early design planning."
+    ]
+  },
+  {
+    "statement": "communal use of components can reduce quantity of parts or code numbers , which facilitates parts administration, thereby lowering development and manufacturing times, and therefore costs",
+    "insights": [
+      "Communal components lowers production costs.",
+      "Communal components lowers production lead time.",
+      "Communal components reduce amount of component code numbers.",
+      "Communal components reduce inventory size.",
+      "communal components and design elements decreases development time."
+    ]
+  },
+  {
+    "statement": "communal parts when extended to large assemblies decreased performance levels and potentially increased costs become possible for some variants. Each module must be sized to the largest in its partition, taking into consideration the range of performance targets needed and partitioned into several module sizes supplying each partition",
+    "insights": [
+      "Communal parts increases production cost for some variants.",
+      "Communal parts decreases product overall or global performance."
+    ]
+  },
+  {
+    "statement": "a focus on commonality makes it possible to use modules in different product variants",
+    "insights": [
+      "Component commonality facilitates module re-use/carry-over."
+    ]
+  },
+  {
+    "statement": "less development costs, development times, testing costs, and certification costs are all positive effects of modularity",
+    "insights": [
+      "Modular architecture decreases development costs.",
+      "Modualar architecture decreases development times.", 
+      "Modular architecture decreases testing costs.",
+      "Modular architecture decreases certification costs."
+    ]
+  },
+  {
+    "statement": "commonality also allows for reducing generational diversity by using modules across product family generations.",
+    "insights": [
+      "Commonality reduces generational module/component variety."
+    ]
+  },
+  {
+    "statement": "Highly decoupled modules allow simplified adaptations to: new applications, a simpler module upgrade, or the expansion into a product family",
+    "insights": [
+      "Highly decoupled modules allow simplified adaptions to new applications.",
+      "Highly decoupled modules allows for module upgrade.",
+      "Highly decoupled modules allows for expansion into a product family."
+    ]
+  },
+  {
+    "statement": "initial platform development requires time, which can be amortized by the shorter execution times for individual product variants by introducing a configure to order strategy",
+    "insights": [
+      "Modular architecture requires more initial developement time.",
+      "Modular architecture allows a configure-to-order strategy.",
+      "Modular architecture reduces the development time of individual product variants."
+    ]
+  },
+  {
+    "statement": "modularity requires some effort for the maintenance of the modular kit in checking compatibility throughout the product family when adapting and further developing modules.",
+    "insights": [
+      "Modular architecture requires effort for the maintenance compatability in the product family."
+    ]
+  },
+  {
+    "statement": "decoupling individual modules and their connections via clearly defined interfaces results in further benefits of less design modifications when developing a new product variant",
+    "insights": [
+      "Interface standardization results in less design modifications when developing a new product variant."
+    ]
+  },
+  {
+    "statement": "Modularity can allow for simpler development processes, since the amount of repeated tasks, such as documentation decreases.",
+    "insights": [
+      "Modular architecture allows for simpler development processes.",
+      "Modular architecture decreases the amount of repeated tasks."
+    ]
+  },
+  {
+    "statement": "Modularity: Development tasks can be better allocated to development teams with deep functional expertise, and the organizational structure can be adapted more easily to the activities",
+    "insights": [
+      "Modular architecture increases specialization and expertise.",
+      "Modular architecture allows for division of labor."
+    ]
+  },
+  {
+    "statement": "Modularity also enables outsourcing of development tasks to suppliers so that companies can concentrate on their own core competencies",
+    "insights": [
+      "Modular architecture increases specialization and expertise among suppliers.",
+      "Modular architecture enables outsourcing of development tasks to suppliers."
+    ]
+  },
+  {
+    "statement": "Highly Decoupled modules supports Isolating modules- which allows separate testing of the individual modules, thereby reducing product-level iterative redesign loops and detecting design defects failure earlier.",
+    "insights": [
+      "Low coupling of modules reduces propagation of changes in the design.",
+      "Low coupling of modules allows for independent/parallel testing.",
+      "Low coupling of modules increases early identification of design defects."
+    ]
+  },
+  {
+    "statement": "Modularity can support enhanced freedom in development, because developers can concentrate exclusively on one module, which allows for a higher degree of innovation",
+    "insights": [
+      "Modular architecture allows conentrating on one module for a higher degree of innovation.",
+      "Modular architecture supports enhanced freedom in development."
+    ]
+  },
+  {
+    "statement": "rigid systems of design rules necessary for product family structure can inhibit the ability to innovate, but innovation within these rules may be faster",
+    "insights": [
+      "Product platforms inhibit product innovation.",
+      "Product platforms decrease innovation time."
+    ]
+  },
+  {
+    "statement": "When considering procurement, numerous authors point to the reductions of inventories due to modularity ... allocated this reduction to the reuse of same components",
+    "insights": [
+      "Modular architecture reduces inventory.",
+      "Modular architecture decreases inventory variety."
+    ]
+  },
+  {
+    "statement": "When many functions are bundled into one monolithic module and used in higher volumes across many product variants, then each variant does not need all the module functionality. unnecessary high costs can be placed onto the module.",
+    "insights": [
+      "Commerercial off-the shelf components create exess functionality.",
+      "Commercial off-the-shelf components decrease product overall or global performance.",
+      "Commercial off-the-shelf components increases procurement costs."
+    ]
+  },
+  {
+    "statement": "Commonality decreases the number of unique processes, thereby facilitating automation",
+    "insights": [
+      "Commonality decreases the number of unique processes, thereby facilitating automation."
+    ]
+  },
+  {
+    "statement": "One of the most important effects of modularity is the increase in production lot size",
+    "insights": [
+      "Modular architecture increases production lot size (higher lot sizes of the same parts)."
+    ]
+  },
+  {
+    "statement": "The proportional curve between the increase in modularity and the reduced number of parts led to a decrease in the test and set-up cost per unit",
+    "insights": [
+      "Modular architecture reduces set-up costs per unit.",
+      "Modular architecture reduces test cost per unit."
+    ]
+  },
+  {
+    "statement": "Increasing commonality can create a more balanced machine utilization in production",
+    "insights": [
+      "Commonality of components creates more balanced machine utilization in production."
+    ]
+  },
+  {
+    "statement": "Modular production processes enable parallelization which reduces throughput time",
+    "insights": [
+      "Modular production processes reduces production lead time.",
+      "Modular production processes facilitates parallel production."
+    ]
+  },
+  {
+    "statement": "Another indirect benefit [of modularity] is the reduction of product numbers ",
+    "insights": [
+      "Modular architecture reduces product numbers."
+    ]
+  },
+  {
+    "statement": "Modularity supports Postponement as a possible strategy for a late variant formation in different business areas.",
+    "insights": [
+      "Modular architecture increases postponement capability."
+    ]
+  },
+  {
+    "statement": "Introducing modularity results in better corporate risk distribution.",
+    "insights": [
+      "Modular architecture increases corporate risk distribution."
+    ]
+  },
+  {
+    "statement": "To provide a better communal usability of modules, for example, two approaches are possible: Either the interfaces must be standardized or the module has to be sized to meet the product variant with the highest requirements",
+    "insights": [
+      "Commonality of components causes oversizing in modules."
+    ]
+  },
+  {
+    "statement": "Interface standardization and oversizing enable commonality",
+    "insights": [
+      "Interface standardization enables commonality."
+    ]
+  },
+  {
+    "statement": "interface standardization and function binding enable combinability",
+    "insights": [
+      "Interface standardization enables combinability."
+    ]
+  },
+  {
+    "statement": "Decoupling enables separability",
+    "insights": [
+      "Low coupling enables separabilitiy."
+    ]
+  },
+  {
+    "statement": "Decoupling and Interface standarization increase initial investment time to develop- may increase or lower total development time.",
+    "insights": [
+      "Interface standardization lowers total development time.",
+      "Interface standardization increases initial investment time.",
+      "Decoupling increases initial investment time."
+    ]
+  },
+  {
+    "statement": "Decouplings's ease of mapping organizations to tasks allows for outsourcing development tasks- may postively or negatively influnce development time",
+    "insights": [
+      "Decoupling allows for out-sourcing of a design."
+    ]
+  },
+  {
+    "statement": "Decoupling & Interface standardization increases design freedom in modules, but decreases over entire system to effect product innovation",
+    "insights": [
+      "Interface standardization increases potental of development strategy lock-in.",
+      "Interface standardization icreases design freedom in modules."
+    ]
+  },
+  {
+    "statement": "Decoupling increases adaptability, upgradability and ease of mapping organisation to tasks. It lowers developmental risk",
+    "insights": [
+      "Decoupling lowers developmental risk.",
+      "Decoupling allows division of labor."
+    ]
+  },
+  {
+    "statement": "Commonality increases reuse which lends itself to greater reliablility and varient derivation while decreasing component variety",
+    "insights": [
+      "Commonality increases component reliability.",
+      "Commonality increases product varient derivation."
+    ]
+  },
+  {
+    "statement": "Commonality encourages Oversizing which leads to inefficiency of volume, weight and features",
+    "insights": [
+      "Commonality increases oversizing.",
+      "Commonality leads to inefficiency of volume.",
+      "Commonality leads to inefficiency of weight."
+    ]
+  },
+  {
+    "statement": "Commonality increases predictability and facilitates maintaining a larger stock size which can benefit from economies of scale",
+    "insights": [
+      "Commonality exploits economies of scale."
+    ]
+  },
+  {
+    "statement": "Increasing commonality of modules increases component reuse and development costs per unit decreased",
+    "insights": [
+      "Commonality increases component reuse.",
+      "Reuse (Carry-over) components decrease development costs."
+    ]
+  },
+  {
+    "statement": "Decoupling modules increases module reuse and adaptability, which allows for easier derivation of new products, leading to lower development times",
+    "insights": [
+      "Decoupling allows for easier derivation of new products.",
+      "Decoupling lowers development times.",
+      "Decoupling increases module reuse."
+    ]
+  },
+  {
+    "statement": "Modularity allows for decoupling development tasks which makes it possible to develop in parallel and to outsouce, leading to shorter development times resulting in an earlier start of production planning and a shorter time to market",
+    "insights": [
+      "Modular architecture leads to shorter development times.",
+      "Modular architecture allows for a shorter time to market.",
+      "Modular architecture results in an earlier start of production planning.",
+      "Modular architecture makes it possible to develop in parallel.",
+      "Modular architecture makes it possible to outsource development."
+    ]
+  },
+  {
+    "statement": "Commonality and component reuse also raise reliability and the maturity of products",
+    "insights": [
+      "Commonality raises reliability and maturity of products.",
+      "Component reuse raises reliability and maturity of products."
+    ]
+  },
+  {
+    "statement": "Commonality via the oversizing of modules may decrease the efficiency of the product",
+    "insights": [
+      "Commonality decreases the efficiency of the product."
+    ]
+  },
+  {
+    "statement": "the modularity impact model shows possible outcomes when increasing commonality of modules. Possible outcomes may be reduced amount of code numbers and component variety, making it possible to reduce the variety of differentiating stock items for parts and spare parts and with it stock and purchasing costs.",
+    "insights": [
+      "Modular architecture reduces procurement costs.",
+      "Modular architecture reduces component variety.",
+      "Modular architecture reduces amount of componant code numbers.",
+      "Commonality of components reduces procurement costs."
+    ]
+  },
+  {
+    "statement": "Increasing commonality allows for greater lot sizes, reduces set-up times and queuing delays, and also saves on inventory costs.",
+    "insights": [
+      "Commonality saves on inventory costs.",
+      "Commonality allows for greater lot sizes.",
+      "Commonality reduces set-up times.",
+      "Commonality reduces queing delays."
+    ]
+  },
+  {
+    "statement": "Decreasing component variety in combination with standard interfaces and function binding leads to a reduced variety of production processes with fewer investments in tools and jigs, which lowers both inventory costs and production costs per unit",
+    "insights": [
+      "Interface standardization lowers inventory costs.",
+      "Interface standardization lowers production costs.",
+      "Interace standardization reduces variety of production processes."
+    ]
+  },
+  {
+    "statement": "Oversizing to increase commonality of modules may cause needless production steps, which in turn may increase production costs per unit.",
+    "insights": [
+      "Oversizing components increases production costs.",
+      "Oversizing components causes needless production steps."
+    ]
+  },
+  {
+    "statement": "For example, the oversizing tradeoff is typically applied on low volume products in which the increase of material costs is outweighed by the reductions in production inventory, tooling, and downtime.",
+    "insights": [
+      "Commonality with oversizing causes reductions in production inventory and downtime.",
+      "Commonality with oversizing causes reductions in production inventory and downtime."
+    ]
+  },
+  {
+    "statement": "Decoupling Decreases Development Risk",
+    "insights": [
+      "Decoupling decreases development risk."
+    ]
+  },
+  {
+    "statement": "Modularity Increases Initial Time Investment (67%) and Development Time (78%)",
+    "insights": [
+      "Modular architecture increases initial time investment and development time."
+    ]
+  },
+  {
+    "statement": "Decoupling increases ease of mapping organisation to tasks, parallel development, start of production planning, outsourcing of development tasks, product adaptation, adaptability upgradeability, development time, and ease of variant derivation",
+    "insights": [
+      "Decoupling increases parallel development.",
+      "Decoupling allows division of labor.",
+      "Decoupling increases ease ofvarient derivation of products.",
+      "Decoupling increases ease of outsourcing."
+    ]
+  },
+  {
+    "statement": "Interface Standardization decreases freedom of design (67%), Product Innovation (44%), and decreases Innovation (economic impact) (44%)",
+    "insights": [
+      "Interface standardization decreases freedom of design.",
+      "Interface standardization decreases product innovation.",
+      "Interface standardization decreases economic impact."
+    ]
+  },
+  {
+    "statement": "Interface Standardization increases Innovation (56%)",
+    "insights": [
+      "Interface standardization increases innovation."
+    ]
+  },
+  {
+    "statement": "Commonality decreases component variety (100%), Failure rate (67%), code numbers (67%), parts administration (67%), development costs per unit (100%), and parts administration time (44%)",
+    "insights": [
+      "Commonality decreases component variety.",
+      "Commonality decreases development costs per unit."
+    ]
+  },
+  {
+    "statement": "Commonality decreases component variety (100%), code numbers (67%), stock (44%), stock costs (56%), no. of parts and spare parts (56%), spare parts costs (??), no. of suppliers (67%), no. of purchase orders (56%), and procurement costs (67%)",
+    "insights": [
+      "Commonality decreases number of parts or components in a single product.",
+      "Commonality decreases inventory variety.",
+      "Commonality decreases number of suppliers.",
+      "Commonality decreases number of purchase orders.",
+      "Commonality decreases amount of component inventory."
+    ]
+  },
+  {
+    "statement": "Commonality increases lot size (78%), predictability (67%), purchasing conditions (56%), ease of supplier management (56%), dependency on supplier (67%)",
+    "insights": [
+      "Commonality increases ease of supplier management.",
+      "Commonality increases dependency on supplier."
+    ]
+  },
+  {
+    "statement": "Decoupling increases parallel production processes and manufacturing flexibility",
+    "insights": [
+      "Decoupling increases manufacturing flexibility.",
+      "Decoupling increases parallel production."
+    ]
+  },
+  {
+    "statement": "Combinability increases postponement and manufacturing flexibility",
+    "insights": [
+      "Combinability increases postponement capability.",
+      "Combinability increases manufacturing flexibility."
+    ]
+  },
+  {
+    "statement": "Commonality increases postponement and manufacturing flexibilty",
+    "insights": [
+      "Commonality increases postponement capability.",
+      "Commonality increases manufacturing flexibility."
+    ]
+  },
+  {
+    "statement": "Commonality decreases component variety (100%), Set up changes (57%), Set up time queing delays (57%, inventory costs (71%), variety of production processes (57%), tool/jig investments (57%), inventory costs (71%)",
+    "insights": [
+      "Commonality decreases investment in tools and/or people.",
+      "Commonality decreases variety of production processes."
+    ]
+  },
+  {
+    "statement": "Oversizing increases no. of needless production steps",
+    "insights": [
+      "Commonality increases production time."
+    ]
+  },
+  {
+    "statement": "Interface Standardization decreases variety of production processes (57%), Tool/jig investments (57%), and inventory costs (71%)",
+    "insights": [
+      "Interface standardization decreases investment in tools and/or people."
+    ]
+  },
+  {
+    "statement": "Function binding decreases variety of production processes (57%), tool / jig investments (57%) and inventory costs (71%)",
+    "insights": [
+      "Function binding decreases inventory costs.",
+      "Function binding decreases investment in tools and/or people.",
+      "Function binding decreases variety of production processes."
+    ]
+  },
+  {
+    "statement": "If one uses off-the-shelf parts ... it is likely that the hours observed in the project (assuming no change in the content of the product) will be less than if one were to engineer a new part in-house. This conclusion has to be tempered with the realization that coordination costs may limit the savings from using old parts or farming work out.",
+    "insights": [
+      "Off-the-shelf components decrease project time.",
+      "Off-the-shelf parts cause coordination costs to project time."
+    ]
+  },
+  {
+    "statement": "Unique parts add activities and cost and may affect time.",
+    "insights": [
+      "Unique parts add activities.",
+      "Unique parts add cost."
+    ]
+  },
+  {
+    "statement": "Unique parts allow suppliers to provide engineering work, reducing internal engineering effort",
+    "insights": [
+      "Unique parts allow engineering outsourcing to suppliers."
+    ]
+  },
+  {
+    "statement": "The engineers in the American projects thus spend time making a larger set of common parts fit into a new design. To the extent that common and carryover parts pose constraints for product design and engineering, the greater use of unique parts in the japanese projects suggests a possible advantage in product performance.",
+    "insights": [
+      "Common parts cause a disadvantage in global performance.",
+      "Common parts restrict design freedom.",
+      "Common parts require fitting time in new product development."
+    ]
+  },
+  {
+    "statement": "Suppliers are involved earlier in the process, and, for sophisticated components, play a critical role in innovation. This pattern of involvement, and the existence of longer term relationships in Europe, is consistent with the fact that many of the major innovations in the European auto industry have come from suppliers-e.g. ABS, traction control, turbo-charging, to name a few.",
+    "insights": [
+      "Complicated designs produce major innovations with supplier involvment.",
+      "Sophisticated components allow opportunities for supplier involvement."
+    ]
+  },
+  {
+    "statement": "In-house unique parts require more engineering effort (comparing US to Japanese Automakers)",
+    "insights": [
+      "Custom Components require more engineering effort when done in house."
+    ]
+  },
+  {
+    "statement": "High unique parts in a project correlates with high supplier involvement",
+    "insights": [
+      "Unique parts correlate with suplier involvement."
+    ]
+  },
+  {
+    "statement": "High reliance on common parts correlates with low supplier involvement",
+    "insights": [
+      "Common parts correlate with low supplier involvement."
+    ]
+  },
+  {
+    "statement": "More complex systems require more hours",
+    "insights": [
+      "Complex systems require more hours."
+    ]
+  },
+  {
+    "statement": "Unique parts strategies with modularity which allow for black-box design format with suppliers are considered more effecient when supplier relationships are good and intensive involvement",
+    "insights": [
+      "Modularity can increase design management efficiency.",
+      "Modularity enables black box design.",
+      "custom components enable black box design."
+    ]
+  },
+  {
+    "statement": "the combination of a high fraction of unique parts and significant engineering work done in-house creates a complex planning process that re-quires more time to complete. since variables controlling the price of the vehicle, its size, and the number of body types have been included, it appears that doing the work in-house with more unique parts would increase complexity of the planning process even if the content of the product were unchanged. This conclusion holds even when one controls for the degree of product innovation and market uncertainty.",
+    "insights": [
+      "A high fraction of unique parts increases complexity of design process.",
+      "A high fraction of unique parts increases time required to complete design process."
+    ]
+  },
+  {
+    "statement": "use of more unique parts in designs generally improves the performance of the product. (possible tradeoffs with commonality, design quality, role of suppliers)",
+    "insights": [
+      "Unique parts improve the performance of the product.",
+      "Unique parts lose benefits of commonality.",
+      "Unique parts hurt design quality.",
+      "Unique parts decrease role of suppliers."
+    ]
+  },
+  {
+    "statement": "If each structural element implements several functions, it makes a device much more efficient",
+    "insights": [
+      "function sharing makes a device much more efficient."
+    ]
+  },
+  {
+    "statement": "If automobiles were designed without function sharing they would be relatively large, heavy, expensive and unreliable.",
+    "insights": [
+      "Function sharing increases  product reliability.",
+      "Function sharing reduces product weight.",
+      "Function sharing reduces product size."
+    ]
+  },
+  {
+    "statement": "mass-produced designs that exhibit function sharing are better than those that do not exhibit function sharing, as a general rule.",
+    "insights": [
+      "Function sharing improves mass-produced designs as a general rule."
+    ]
+  },
+  {
+    "statement": "designs exhibiting function sharing will generally be less expensive to produce than designs that do not exhibit function sharing, as a result of fewer parts, easier assembly and less required adjustment and maintenance.",
+    "insights": [
+      "Function sharing makes designs generally less expensive to produce.",
+      "Function sharing makes designs generally have fewer parts.",
+      "Function sharing makes designs generally easier to maintain.",
+      "Function sharing makes designs generally easier to assemble."
+    ]
+  },
+  {
+    "statement": "designs that share function generally perform better than those that do not, resulting from decreased size and weight.",
+    "insights": [
+      "Function sharing makes designs generally perform better.",
+      "Function sharing generally decreases design size.",
+      "Function sharing generally decreases design weight."
+    ]
+  },
+  {
+    "statement": "function sharing is generally a poor design strategy for research devices and prototypes where debugging, adjustment and diagnosis are very important, because function sharing often causes device perform- ance parameters to be coupled in complicated ways to device physical parameters",
+    "insights": [
+      "function sharing couples device performance parameters in complicated ways.",
+      "Function sharing complicates debugging, adjustment, and diagnosis for research and prototypes."
+    ]
+  },
+  {
+    "statement": "Modular designs make new problems easier to think about by decomposing them into seperate modules/components.",
+    "insights": [
+      "modularity makes it easier to think about new problems."
+    ]
+  },
+  {
+    "statement": " Function sharing is part of the perception of novelty, simplicity or interest in a development",
+    "insights": [
+      "Function sharing is part of the perception of interest.",
+      "Function sharing is part of the perception of simplicity."
+    ]
+  },
+  {
+    "statement": "Function sharing in a design is harder to acheive when a function's physical features are widely distributed over a part.",
+    "insights": [
+      "Function sharing impedes distributing features widely over a part."
+    ]
+  },
+  {
+    "statement": "Function Sharing results in a design simplification procedure that allows the designer to think a modular, decomposed fashion, leading to subsequent design processing to make it more efficient",
+    "insights": [
+      "Function Sharing simplifies design."
+    ]
+  },
+  {
+    "statement": "[Function sharing] with the unbiased application of the physical-feature-based design operations will yield some novel designs",
+    "insights": [
+      "Function sharing yields novelty."
+    ]
+  },
+  {
+    "statement": "(OTS Parts) competition among suppliers should offer potential benefits for outsourcing both physical production activities and the information processing activities associated with product design. Conversely, a lack of competition among many suppliers (i.e., supplier concentration) creates an incentive for the manufacturer to internalize an activity in order to avoid the exercise of monopoly power by a supplier.",
+    "insights": [
+      "(OTS Parts) competition among suppliers should offer potential benefits for outsourcing  physical production activities.",
+      "(OTS Parts) lack of competition among many suppliers (i.e., supplier concentration) creates the possibility of supplier monopoly power.",
+      "(OTS Parts) competition among suppliers should offer potential benefits for outsourcing the information processing activities associated with product design."
+    ]
+  },
+  {
+    "statement": "(OTS Parts) When a supplier provides goods or services to many customers, this supplier may achieve greater economies of scale than could a customer providing the same goods or services for itself. Achieving this benefit requires that the goods or services be standardized and that there be fewer suppliers than customers. External economies of scale are familiar in component production, yet may also be present in product design. For example, when designers can employ expensive and specialized automation tools, may be scale advantages to procuring these design services from a supplier who specializes in these activities.",
+    "insights": [
+      "(OTS Parts) When a supplier provides goods or services to many customers, this supplier may achieve greater economies of scale than could a customer providing the same goods or services for itself."
+    ]
+  },
+  {
+    "statement": "(OTS Parts) for a given required lead-time, the capacity required for a shared resource can be substantially less than the sum of the capacities required to service multiple sources of demand independently. These economies apply to both design and production activities. Design activities tend to experience substantial variability in demand, because the timing of episodes of product development is often more \u201clumpy\u201d than are the production schedules of the associated products.",
+    "insights": [
+      "(OTS Parts) the timing of episodes of product development is often more \u201clumpy\u201d than are the production schedules of the associated products."
+    ]
+  },
+  {
+    "statement": "(Unique Parts) A firm pursuing a new market opportunity or employing a new product or process technology may need access to a new capability immediately.",
+    "insights": [
+      "A firm pursuing a new product or process technology may need access to a new capability immediately.",
+      "A firm pursuing a new  process technology may need access to a new capability immediately."
+    ]
+  },
+  {
+    "statement": "(OTS Parts) Many such capabilities require time to procure internally and so, in the short term, a manufacturer must outsource an activity to a competent supplier.",
+    "insights": [
+      "Using OTS parts gives the firm quick access to new or specislty processes that would otherwise take time to develop."
+    ]
+  },
+  {
+    "statement": "(Unique Parts) the acquisition of a new-to-the-firm capability which generally requires a financial investment of human or physical capital.",
+    "insights": [
+      "Unique parts may require the acquisition of a new-to-the-firm capabilities.",
+      "Unique parts may require a financial investment of human or physical capital."
+    ]
+  },
+  {
+    "statement": "(OTS Parts) One way to avoid the investment is to outsource design and/or production to afirm that already possesses the required capabilities",
+    "insights": [
+      "One way to avoid development cost investment is to outsource design to a firm that already possesses the required capabilities.",
+      "One way to avoid production cost investment is to outsource production to a firm that already possesses the required capabilities.",
+      "One way to avoid development time investment is to outsource design to a firm that already possesses the required capabilities.",
+      "One way to avoid production time investment is to outsource production to a firm that already possesses the required capabilities."
+    ]
+  },
+  {
+    "statement": "(Unique Parts) Asset Specificity and Potential for \u201cHoldUp.\u201d ... costs can be very high in the presence of specific assets, those assets that a supplier requires to provide a good or service and that are unique to the needs of a single customer ... In the presence of such assets, both supplier and customer face small-numbers bargaining and the associated threat of opportunistic behavior on the part of the other party.",
+    "insights": [
+      "unique parts increase asset specificity.",
+      "The asset specificity of unique parts leads to small number bargaining problems."
+    ]
+  },
+  {
+    "statement": "(Unique Parts) A central idea in the field of competitive strategy is that a firm is a locus of competitively distinctive capabilities. Because these capabilities can be quite \u201csticky\u201d (i.e.,difficulttotransfer), a firm can develop a competitive advantage by investing in their development",
+    "insights": [
+      "Using specialty materials or processes can increase a durable competative edge."
+    ]
+  },
+  {
+    "statement": "(Unique Parts) There are also appropriability issues associated with design and production activities. When outsourcing an activity, there is a risk that intellectual property may spill over to competitive firms (Teece1986). Similarly, outsourcing an activity to a supplier presents a risk that this supplier may develop into a competitor. These risks may motivate a firm to internalize activities critical to its competitive advantage.",
+    "insights": [
+      "When outsourcing unique parts, there is a risk that intellectual property may spill over to competitive firms.",
+      "outsourcing unique partsto a supplier presents a risk that this supplier may develop into a competitor.",
+      "The risks of unique parts may motivate a firm to internalize activities critical to its competitive advantage."
+    ]
+  },
+  {
+    "statement": "(Unique Parts) Outsourcing generally requires that a contract can be written that anticipates likely contingencies. Creating a robust contract will be difficult in situations where there is a high likelihood of an unpredictable exogenous disturbance in the task requirements, perhaps due to an unexpected change in market requirements. When unanticipated disturbances occur, contract renegotiation is likely, with the associated small-numbers bargaining problems. As a result, the firm is likely to wish to internalize the activities subject to such disturbances",
+    "insights": [
+      "Custom components protect from supplier issues when made in house."
+    ]
+  },
+  {
+    "statement": "firms that do not have the minimum efficient scale in any one material to benefit from outsourcing production of at least the frames made from that material.",
+    "insights": [
+      "firms that do not have the minimum efficient scale in any one material to benefit from outsourcing production of at least components made from that material."
+    ]
+  },
+  {
+    "statement": "(Unique Parts) knowledge and skill related to a proprietary product design are highly specific assets. Allowing a supplier to harbor these assets presents high risks of hold-up and opportunistic behavior.",
+    "insights": [
+      "Allowing a supplier to harbor knowledge and skill related to a proprietary product design Increases risk of hold-up."
+    ]
+  },
+  {
+    "statement": "When a material and its associated fabrication process are new, designers must collaborate closely with those operating the production process to arrive at a design that both functions as desired and can be feasibly and economically produced. Therefore, we would predict that frames employing new materials would benefit from being both designed and produced by the same organizational entity.",
+    "insights": [
+      "Specialty materials and processes require designers to collaborate closely with those operating the production process to arrive at a design that meets expectations."
+    ]
+  },
+  {
+    "statement": "a high degree of modularity allows breaking down problems into simpler subproblems",
+    "insights": [
+      "modularity allows breaking down problems."
+    ]
+  },
+  {
+    "statement": "Many important advances in robotics research were achieved by overcoming existing \u201cmodularizations\u201d and the corresponding boundaries between sub-fields of robotics.",
+    "insights": [
+      "overcoming existing modularizations leads to advancements in robotics."
+    ]
+  },
+  {
+    "statement": "This simple end-effector can reliably pick all but one of the challenge objects (the pencil cup) from the narrow, deep shelf bins. Grasping success is rather insensitive to the exact contact location with the object",
+    "insights": [
+      "This simple end-effector makes grasping success insensitive to the exact contact location.",
+      "This simple end-effector can reliably pick all but one of the challenge objects (the pencil cup) from the narrow, deep shelf bins."
+    ]
+  },
+  {
+    "statement": "failures result from the fact that the reaching movement is executed open-loop, accumulating a significant error in forward kinematics of the arm, resulting in a pose error of up to 1cm. This can be addressed easily by shifting ... towards more feedback",
+    "insights": [
+      "Using more feedback can address the accumulation of error."
+    ]
+  },
+  {
+    "statement": "In five out of ten attempts, the robot toppled over the glue bottle. The bottle then required a reattempt from the top. In two cases the robot did not have enough time for a reattempt and lost points. As before, this failure case can be alleviated by additional feedback; the robot could detect the tumble and immediately change the strategy. Alternatively, a planner could reason about the tipping point of objects to pick a more stable approach direction for the pick.",
+    "insights": [
+      "object recognition can be improved most effectively by shifting along spectrum A towards tighter integration with the other system components."
+    ]
+  },
+  {
+    "statement": "Modules with defined interfaces allow to use, replace, compare, and recombine existing modules to solve a new problem.",
+    "insights": [
+      "Modules with defined interfaces allow the use, replacement, and comparison of existing modules to solve a new problem.",
+      "Modules with defined interfaces allow recombination of existing modules to solve a new problems."
+    ]
+  },
+  {
+    "statement": "Building systems of arbitrary complexity without structuring them into modules is very difficult",
+    "insights": [
+      "Building integral systems of arbitrary complexity is very difficult."
+    ]
+  },
+  {
+    "statement": "A clearly partitioned modular system has an impact on the social organization of a project, too: developers can focus on their module, avoiding time-consuming communication with developers of other modules.",
+    "insights": [
+      "A clearly partitioned modular system allows developers to focus on their module, avoiding time-consuming communication with developers of other modules."
+    ]
+  },
+  {
+    "statement": "To ensure that the performance of the entire system is maximized, and to avoid making wrong commitments or addressing sub-problems that are unnecessarily difficult, all components of the system should be chosen to maximally exploit potential synergies between components. Identifying these synergies requires early integration",
+    "insights": [
+      "Early integration facilitates System-component choices that maximally exploit potential synergies between components and avoid making wrong commitments or addressing sub-problems that are unnecessarily difficult.",
+      "Robotic systems depend on global performance, and integrated systems allow useful robotic performance."
+    ]
+  },
+  {
+    "statement": "Tight integration with Components requires overlapping knowledge from all team members",
+    "insights": [
+      "Tight integration with Components requires overlapping knowledge from all team members."
+    ]
+  },
+  {
+    "statement": "Team PFN participated in the APC2016 with a highly modular system. They relied on accurate industrial manipulators, powerful image segmentation and grasp detection based on deep neural networks to divide the problem according to the classical sense-plan-act paradigm, with good results.",
+    "insights": [
+      "a highly modular system in the competition lead to good overall results."
+    ]
+  },
+  {
+    "statement": "teams participating in the second edition were able to build upon the modularizations that have proven successful and focus on improving the modules.",
+    "insights": [
+      "modularization allows targeted improvements in itterative design cycles."
+    ]
+  },
+  {
+    "statement": "focusing on computation allows building highly complex systems with diverse behaviors in a short amount of time.",
+    "insights": [
+      "focusing on computation shortens sevelopment time."
+    ]
+  },
+  {
+    "statement": "Purely computational approaches to robotics (Coleman2015; LaValle2006;Miller and Allen2004) also have the advantage of potentially being hardware-agnostic.",
+    "insights": [
+      "Purely computational approaches to robotics can become hardware-agnostic."
+    ]
+  },
+  {
+    "statement": "Tailoring the hardware to a particular problem can reduce the required computation. Hardware solutions are often simple and robust, especially when uncertainty plays a dominant role.",
+    "insights": [
+      "Hardware solutions are often simple.",
+      "Hardware solutions are often robust.",
+      "Tailoring the hardware to a particular problem can reduce the required computation."
+    ]
+  },
+  {
+    "statement": "These hands exploit passive compliance to robustly grasp a variety of objects. Although this comes at the cost of reduced controllability, compliance removes the computational requirements of grasping while increasing grasp performance.",
+    "insights": [
+      "compliance increases grasp performance.",
+      "Compliance reduces computational requirements.",
+      "compliance decreases controlability."
+    ]
+  },
+  {
+    "statement": "we reduced the need for computation by increasing the number of degrees of freedom by mounting the robot arm on a mobile base. This allowed us to generate motion mostly through feedback control, rather than resorting to motion planning.",
+    "insights": [
+      "Distributing degrees of freedom into different modules facilitates computation."
+    ]
+  },
+  {
+    "statement": "the missing passive compliance of that system meant that collisions were more dangerous and had to be avoided which required more complex computation",
+    "insights": [
+      "the missing passive compliance of that system meant that collisions were more dangerous and had to be avoided."
+    ]
+  },
+  {
+    "statement": "There is a fundamental trade-off between complex reasoning and quick reactions. Given unlimited computational resources, a robot could plan over the state of all objects in the world, including models for dynamics and uncertainty. However in reality this is not feasible; the robot must abstract away some of this complexity to reason efficiently",
+    "insights": [
+      "There is a fundamental trade-off between complex reason-ing and quick reactions."
+    ]
+  },
+  {
+    "statement": "Planning finds global solutions, often with theoretical guarantees, where controllers based on local feed back would fail.",
+    "insights": [
+      "Feedback controlled mechanisms may miss global optima."
+    ]
+  },
+  {
+    "statement": "Manipulation tasks, in particular, can be greatly simplified by exploiting feedback from contact with the environment",
+    "insights": [
+      "Manipulation taskscan be simplified by feedback from environment."
+    ]
+  },
+  {
+    "statement": "Architecture developed with KBE tools have reduced the design time in domains such as aerospace; however due to their complexity, the effort required to configure a tool for a specific application is significant, and thus their use is restricted to largely repeatable design problems.",
+    "insights": [
+      "Increasing overall complexity of the design requires specialty tools."
+    ]
+  },
+  {
+    "statement": "[Use of Carry over] synthesis may be restricted to adding and removing connections, while in design with no architecture carry over there are no existing components or connections to remove [forcing new ones to be generated]",
+    "insights": [
+      "The use of carry-over components and design elements simplifys interface decisions.",
+      "The use of carry-over componentns and design elements simplifys orientation decisions.",
+      "The use of carry-over components design elements decreases novelty."
+    ]
+  },
+  {
+    "statement": "A greater number of interfaces between components requires more redesign work",
+    "insights": [
+      "Decoupling requries more redesign work."
+    ]
+  },
+  {
+    "statement": "Conserving architecture elements from previous designs [of a different category] can minimise risk and cost",
+    "insights": [
+      "Conserving architecture elements from previous designs decreases development costs.",
+      "Conserving architecture elements from previous designs decreases development risk."
+    ]
+  },
+  {
+    "statement": "While constructing the complete schema and architecture models, it became clear that the incorporation of the cyclone could be decoupled from many other parts of the architecture such as the wheels or the mains cable storage... In order to focus the computational synthesis on solving the problem at hand, therefore, the architecture of the SC-N200 vacuum cleaner was simplified by removing or collapsing all elements which were peripheral to the problem",
+    "insights": [
+      "Decoupling increases design simplicity."
+    ]
+  },
+  {
+    "statement": "Increasing the complexity of the schema and the size of the design problem increases the likelihood that erroneous assumptions will have been included",
+    "insights": [
+      "Increasing the complexity of a design increases likelihood of erroneous assumptions."
+    ]
+  },
+  {
+    "statement": "The computational cost of the method remains an issue for large problems. Characterizing the scaling of the method is not straigntforward, since each problem modelled has a typical size of the architectures that might solve it, and different problems can have significantly different properties.",
+    "insights": [
+      "Increasing the complexity of a design increases computational costs.",
+      "Increasing the complexity of a design prevents computation."
+    ]
+  },
+  {
+    "statement": " By adopting modular design strategies, firms can take reponsibility for the desing and development of separate modules. Thus, they can develop new products at a faster pace",
+    "insights": [
+      "modular design strategies allow firms to develop new products at a faster pace."
+    ]
+  },
+  {
+    "statement": " Modularity, by simplifying design and development processes, would allow a greater division of labour across firms.",
+    "insights": [
+      "Modularity allows for a greater division of labour across firms."
+    ]
+  },
+  {
+    "statement": "modularity allows firms to focus their capabilites on a few modules .",
+    "insights": [
+      "Modularity increases specialization and expertise of firms."
+    ]
+  },
+  {
+    "statement": "The finer the detail with which modules\u2019 interfaces are defined, the faster the pace of experimentation. ",
+    "insights": [
+      "Interface standardization increases rate of module experimentation."
+    ]
+  },
+  {
+    "statement": "Modularity defines the organization of a problem into a divison of tasks which you can allot to decoupled teams",
+    "insights": [
+      "Modularity increases ability to assign organizations to tasks."
+    ]
+  },
+  {
+    "statement": "Modular designs generate more options, which generates more value",
+    "insights": [
+      "Modular designs are able to generate more options.",
+      "Modular designs generate more value for the consumer."
+    ]
+  },
+  {
+    "statement": "Modular product design means that a particular decomposition of the design problem has been already decided upon",
+    "insights": [
+      "Modular product design requires top-down architecture."
+    ]
+  },
+  {
+    "statement": "independent teams can work independently on the various sub-problems without explicit coordination",
+    "insights": [
+      "Modular product design increases parallel development."
+    ]
+  },
+  {
+    "statement": "slower' (i.e. less modular) search strategies catch up and reach better solutions as they can explore broader search spaces, exactly because they rely on less tightly defined 'design rules'",
+    "insights": [
+      "The use of integral architecture leads to a larger breadth of search area.",
+      "Intergral architectures generate greater improvements in the long term."
+    ]
+  },
+  {
+    "statement": "Modularity allows the decoupling of complex artefacts into less-complex, self-contained modules; each module, at the extreme, could become the sole business of specialist firms",
+    "insights": [
+      "Modularity allows the decoupling of complex artefacts into less complex modules."
+    ]
+  },
+  {
+    "statement": "Modularity makes complexity manageable by making possible to run experiments at the level of modules, rather than the entire artefact, and in parallel",
+    "insights": [
+      "Modularity makes possible to run experiments in parallel."
+    ]
+  },
+  {
+    "statement": "modularity is \u2018tolerant of uncertainty\u2018 because particular elements of a modular design may be changed after unforeseen contingencies emerge, as long as the design rules are obeyed",
+    "insights": [
+      "Modularity increases tolerance to uncertainty."
+    ]
+  },
+  {
+    "statement": "The embedded modularity of the three-shaft design enabled Rolls-Royce to exploit the same architecture, hence cutting the high developement costs of new engines, to cater for a broader range of power requirements",
+    "insights": [
+      "Embedded modularity cuts high development costs.",
+      "Embedded modularity allows exploitation of the same architecture.",
+      "Embedded modularity allows for a broader range of performance outcomes."
+    ]
+  },
+  {
+    "statement": "In fact, they were able to introduce incremental changes in the original architecture by (mixing and matching components) to meet a wider variety of aircraft makers' needs than their competitors. ",
+    "insights": [
+      "The use of modular architecture introduces incremental changes in the original architecture."
+    ]
+  },
+  {
+    "statement": "The adoption of modular design strategies brings about costs too. First, the creation and dissemination of design rules is a rather expensive activity",
+    "insights": [
+      "Developing a new modular architecture increases early desing planning.",
+      "Developing a new modular architecture requires increased systems engineering and planning skills."
+    ]
+  },
+  {
+    "statement": "Experimenting and testing on different modules is also costly",
+    "insights": [
+      "Experimenting and testing on different modules is costly."
+    ]
+  },
+  {
+    "statement": "Developing modular architectures is more difficult than developing integral architecture as it requires a very precise understanding of product functionalities, how they are allocated to components, and how the components interact.",
+    "insights": [
+      "Developing modular architecture is more complex than developing intergral architectures."
+    ]
+  },
+  {
+    "statement": "the choice of product architecture should be related to a company\u2018s product strategy",
+    "insights": [
+      "A product's architecture can determine a company's product strategy."
+    ]
+  },
+  {
+    "statement": "If a company wants to stress product performances, then the most appropriate choice would be the intergral architecture, since global performance characteristics are optimized through this type of architecture",
+    "insights": [
+      "Using integral architecture optimizes global performance characteristics."
+    ]
+  },
+  {
+    "statement": "companies wanting to emphasize product change and variety, flexibility and upgradeability, may well choose a modular architecture",
+    "insights": [
+      "Modularity emphasizes product change.",
+      "Modularity emphasizes product flexibility.",
+      "Modularity emphasizes product upgradeability."
+    ]
+  },
+  {
+    "statement": "Modularity will make the system climb the local optimum faster, but cannot make it jump to another, higher valued, local optimum (inherent lock-in problem)",
+    "insights": [
+      "Modularity increases rate of locating local optimum of the products overall performance."
+    ]
+  },
+  {
+    "statement": "Relying on the modular architecture of the established product, Fujitsu, like other firms, relied on a decoupled network of external suppliers. However, unlike its compe- titors, Fujitsu continued to invest \u2018in systems knowledge and materials and component technology in its R&D labs\u2019 ... It enabled the firm to master the new, fast-moving technology and to navigate the dangerous waters of architectural innovation stemming from it. By knowing more than it needed for its own design and production, Fujitsu managed to avoid competency traps such as those described by Chesbrough and Kusunoki (2001) and Henderson and Clark (1990). Brusoni et al. (2001) argued that cases like Fujitsu\u2019s show that decoupled, modular networks coordinated through markets and the exchange of codified knowledge (Sturgeon, 2002) are but particular cases of a more general model, which link firms\u2019 knowledge and production boundaries. ",
+    "insights": [
+      "When there is investment in continued R&D, Modular architecture allows a firm to adapt to fast changing technology markets.",
+      "Modularity allows continuous expiramentation and testing."
+    ]
+  },
+  {
+    "statement": "products characterized by unpredictable interdependencies across components as well as imbalances at the technological level- require tightly organized firms",
+    "insights": [
+      "Products characterized by unpredictable component interdependencies require tightly organized firms."
+    ]
+  },
+  {
+    "statement": "Truly modular networks *can* emerge only when product interdependencies are predictable and when the specialized bodies of knowledge are at the same stage of development",
+    "insights": [
+      "Product interdependancies cause modular networks of firms and suppliers to emerge."
+    ]
+  },
+  {
+    "statement": "We show that the speed of adaptation can give evolutionary advantages even though overmodular search strategies may not be the most efficient problem-solving strategy.",
+    "insights": [
+      "Modularity aids speed of adaption which gives evolutionary advantages."
+    ]
+  },
+  {
+    "statement": "modular problem solving strategies instead prevent organizations from rapidly abandoning their established way of doing things",
+    "insights": [
+      "Modular problem-solving strategies prevent organizations from abandoning their established ways of doing things."
+    ]
+  },
+  {
+    "statement": "*Provided statistics* shows that sharp reducitons of complxity and time of search can be obtained by accepting sub-optimal 'satisficing' solutions",
+    "insights": [
+      "Accepting sub-optimal 'satisficing' solutions obtains sharp reductions of complexity.",
+      "Accepting sub-optimal 'satisficing' solutions obtains sharp reductions of the time of the search."
+    ]
+  },
+  {
+    "statement": "Fully modular search  strategies, (those in which each component is optimized independently of the others) are not optimal as they can locate the globally optimal configuration only if there are no interdependencies among components.",
+    "insights": [
+      "Fully modular search strategies can only locate the globally optimal configuration if there are no interdependencies among components."
+    ]
+  },
+  {
+    "statement": "An over-modular approach focussed on the exploration of each component independently from the others, may be doomed to be limited in the maximum performance that can be finally obtained",
+    "insights": [
+      "Over-modular approaches are limited in the max performance that can be obtained."
+    ]
+  },
+  {
+    "statement": "Aiming at the optimal solution of a problem(integral search strategy) entails the necessity to take into account all the interdependencies among components. However, this enlarges enormously the space to be searched and therefore the time required to explore it",
+    "insights": [
+      "integral search strategy enlarges enormously the space to be searched and therefore the time required to explore it.",
+      "integral search strategy requires attention to interdependencies among components."
+    ]
+  },
+  {
+    "statement": "In highly volatile environments, it can happen that an agent finds itself in a location with very low fitness ...in this case local short steps(modular search strategies) will be too slow a strategy... while long jumps(integral search strategies) have a high probability of quickly finding a higher fitness level",
+    "insights": [
+      "Integral search strategies increase adaptability to low fitness zones in a highly volatile environment."
+    ]
+  },
+  {
+    "statement": "The integrated strategy is likely to provide large improvements when starting from low-fitness locations, while it will provide low improvements when the starting location has high fitness",
+    "insights": [
+      "The integrated strategy is able to provide large improvements in a low-fitness location, surpassing the small improvements of a modular approach."
+    ]
+  },
+  {
+    "statement": "In highly volatile, fast-changing  environments  in fact, modular search strategies are shown to have a high probability of being trapped  into low-fitness  zones ",
+    "insights": [
+      "Modular search strategies are likely to be trapped into low-fitness zones in a highly volatile environment."
+    ]
+  },
+  {
+    "statement": "Integral search strategies on the contrary perform search on a broader spectrum and can therefore jump out of low-fitness zones of the landscapes in which sooner or later everybody will fall in a highly volatile environment.",
+    "insights": [
+      "Integral search strategies decrease potential for lock-in."
+    ]
+  },
+  {
+    "statement": "Designing product specific components allows firms to maximize product performance with respect to holistic customer requirements--those requirements that arise in a complex way from  most of the components of a product",
+    "insights": [
+      "Designing product-specific components maximizes product performance with respect to customer requirements."
+    ]
+  },
+  {
+    "statement": "There are many benefits to selecting an existing component, including minimizing investment, exploiting economies of scale, and preserving organizational focus",
+    "insights": [
+      "Selecting an existing component minimizes investment."
+    ]
+  },
+  {
+    "statement": "There are many benefits to selecting an existing component, including minimizing investment, exploiting economies of scale, and preserving organizational focus",
+    "insights": [
+      "Selecting an existing component exploits economies of scale.",
+      "Selecting an existing component preserves organizational focus."
+    ]
+  },
+  {
+    "statement": "Several other motives for selecting existing components may also be present in particular situations, including: a desire for component compatibility because of network externalities",
+    "insights": [
+      "Selecting an existing component creates a desire for component compatibility."
+    ]
+  },
+  {
+    "statement": "... [when a] function is quite complex and can only be partially be made explicit ... only by using coupled parameters and highly nonlinear mathematical relationships. As a result it is not possible to decompose [the function] into independant performance requirements for each of the components. ... as a result, most of the components ... must be product specific",
+    "insights": [
+      "Product specific components reduces product overall or global performance."
+    ]
+  },
+  {
+    "statement": "if weight were the only important requirement for ... high performance components could be selected [rather than custom built]",
+    "insights": [
+      "components with low weight\u2014a measure of component quality that does not depend on the other components of the system. (RS-180: Use of commercial off-the-shelf components allows use of OTS components)."
+    ]
+  },
+  {
+    "statement": "To minimize size, mass, and variable cost, designers seek to minimize excess component capability, and therefore design product-specific components",
+    "insights": [
+      "Designing product-specific components can minimize time.",
+      "Designing product-specific components can minimize mass.",
+      "Designing product-specific components can minimize size.",
+      "Designing product-specific components can minimize variable costs.",
+      "Designers use product-specific components to minimize excess component capability.",
+      "Designing product-specific components can minimize energy consumption."
+    ]
+  },
+  {
+    "statement": " to minimize size, mass, and variable cost, designers adopt integral product architectures, and therefore design product-specific components",
+    "insights": [
+      "Adopting integral product architectures minimizes mass.",
+      "Adopting integral product architectures minimizes size.",
+      "Adopting integral product architectures minimizes variable costs."
+    ]
+  },
+  {
+    "statement": "Modular architecture prevents function sharing",
+    "insights": [
+      "Modular architecture prevents function sharing."
+    ]
+  },
+  {
+    "statement": "As function sharing increases, component requirements become more idiosyncratic and less likely to be fulfilled by existing components",
+    "insights": [
+      "As function sharing increases, so does the need more unique parts."
+    ]
+  },
+  {
+    "statement": "Part integration, or the combination of multiple parts into one contiguous part, minimizes the use of material and space associated with component interfaces, and may improve geometric precision",
+    "insights": [
+      "Part integration minimizes the use of material.",
+      "Part integration minimizes the use of space.",
+      "Part integration improves geometric precision."
+    ]
+  },
+  {
+    "statement": "As a result, a strong component supply  base may not develop, requiring product firms to design their own components. While a firm may still standardize components internally, components are likely to be less standardized than if there were a strong external supply of components.",
+    "insights": [
+      "Components with less standardization do not require a strong external supply of components."
+    ]
+  },
+  {
+    "statement": "These components [with function sharing] are likely require significant tuning to achieve the appropriate trade-offs for the customer",
+    "insights": [
+      "Function sharing in a component requires tuning activities."
+    ]
+  },
+  {
+    "statement": "The modules identify opportunities for function sharing by components and lead to alternative layouts where concept generation techniques may be used to embody the layouts",
+    "insights": [
+      "the use of modularity identifies opportunites for alternative design layouts in later itterations."
+    ]
+  },
+  {
+    "statement": "product components can be standardized, shared and reused in a range of products so that new products could frequently and easily be launched by modifying and combining different modules from existing designs",
+    "insights": [
+      "When components are standardized, new products can be launched.",
+      "When components are standardized new products can frequently be launched.",
+      "When components are standardized, modules are modified and combined.",
+      "When components are standardized, modules from existing designs are used."
+    ]
+  },
+  {
+    "statement": "since product modularity allows a product to be decomposed into a set of smaller de-coupled sub-systems or chunks, different teams of designers can autonomously and concurrently design and test modules, thus reducing the time dedicated to the detailed design of new products",
+    "insights": [
+      "Product modularity reduces the time dedicated to the detailed design of new products.",
+      "Product modularity allows different teams of designs to concurrently design and test modules."
+    ]
+  },
+  {
+    "statement": "Product modularity is positively related to strategic flexability, measured in terms of model variety and product introduction rate, which in turn influence firm financial performance",
+    "insights": [
+      "Product modularity increases firm financial performance for the firm.",
+      "Product modularity increases model variety.",
+      "Product modularity increases product introduction rate."
+    ]
+  },
+  {
+    "statement": "When interations among product chunks are well-developed and an agreement over the desing of common product interfaces has been reached, teams of designers from the manufacturer and suppliers can autonomously and concurrently design product modules",
+    "insights": [
+      "Well developed interations among product chunks allows the concurrent design of product modules.",
+      "Well developed interations among product chunks allows out-sourcing of design.",
+      "Well developed interations among product chunks allows out-sourcing of production."
+    ]
+  },
+  {
+    "statement": "[Modularity] allows the firm to design, develop and produce parts which can be combined in the maximum number of ways to create a large variety of end products from a smaller set of the independent module alternatives. For this reason, modularity is often considered a useful approach to reduce costs by increasing component standardization, i.e. commonality across different product variants",
+    "insights": [
+      "Modularity increases commonality across different product vairants.",
+      "Modularity is a useful approach to reduce costs.",
+      "Modularity increases component standardization."
+    ]
+  },
+  {
+    "statement": "Since product modularity allows product variety to be managed without the explosion of costs for inventory and production, literature often associates product modularity with imporvements in different competitive performances of a firm, such as product costs, quality, flexibility, manufacturing cycle time and customer service",
+    "insights": [
+      "Modularity increases product quality performance of a firm.",
+      "Modularity increases flexability of a firm.",
+      "Modularity improves customer service.",
+      "Modularity increases cost performance.",
+      "Modularity allows product variety."
+    ]
+  },
+  {
+    "statement": "Modular product architecture facilitates and speeds up product changes and updating over the life of a product",
+    "insights": [
+      "Modularity speeds up product changes."
+    ]
+  },
+  {
+    "statement": "Modularity allows easy and rapid identification of the modules that should be changed for improving product performance or adding an additional product feature",
+    "insights": [
+      "Modularity allows easy identification for improvement/troubleshooting."
+    ]
+  },
+  {
+    "statement": "Product modularity can change the way detailed designing and testing phases in NPD are managed and organized. In these phases, the overall design task can be divided into smaller tasks for parallel development ...different teams of designers ... can design modules autonomously and concurrently thus reducing the overall time dedicated to product designing and testing",
+    "insights": [
+      "Modularity facilitates parallel development."
+    ]
+  },
+  {
+    "statement": "Product modularization with close supplier collaboration reduces development lead time",
+    "insights": [
+      "Modularity with close supplier collaboration reduces development time."
+    ]
+  },
+  {
+    "statement": "The design of a modular product can be easily be divided between suppliers and the producer to facilitate the concurrent engineering of a new/modified product",
+    "insights": [
+      "Modularity allows black box design."
+    ]
+  },
+  {
+    "statement": "The positive effect of modularity on time performance in NPD increases with rising levels of integration between functions in the NPD process",
+    "insights": [
+      "Modularity with increased interfunctional integration reduces development time."
+    ]
+  },
+  {
+    "statement": "Cross functional Teams (II) working on modular architecutures will spend more time defining the architecture, but this time recuperated by reducing inefficiencies and product modifications",
+    "insights": [
+      "Developing a new modular architecture increases early design planning time."
+    ]
+  },
+  {
+    "statement": "We found that in particular circumstances, Modularity has no impact on Time Performance. In particular, it emerges when Interfunctional Integration is low, Modularity seems to have no influence on Time Performance.",
+    "insights": [
+      "Modularity stops improving development time when interfunctional integration is low."
+    ]
+  },
+  {
+    "statement": "Companies characterized by low degrees of modularity perform better when interfuncitonal integration is low",
+    "insights": [
+      "Integral approaches increase a firm's performance when interfunctional integration is low."
+    ]
+  },
+  {
+    "statement": "Modularity/Modularization... may, for example, ease engineering change management, allow product flexibility in use or even help designing product families.",
+    "insights": [
+      "Modularity Increases flexability.",
+      "Modularity eases engineering change management.",
+      "Modularity facilitates the design of product families."
+    ]
+  },
+  {
+    "statement": "Under Modularisation - These drivers are all connected to a root node representing the benefit \u2018reduction of internal variety and increase in commonality\u2019.",
+    "insights": [
+      "Modularity increases commonality."
+    ]
+  },
+  {
+    "statement": "benefits of product modularity are the ability to reach high product variety for mass customisation while keeping a relatively low and manageable internal product variety for the product development process",
+    "insights": [
+      "Modularity increases product variety.",
+      "Modularity decreases internal product variety."
+    ]
+  },
+  {
+    "statement": "Under Modularisation - Breaking down the product complexity is cited as a means to reduce the development time by allowing parallel development and, thus, to lead to a shorter time-to-market and reduced development costs.",
+    "insights": [
+      "Modularity decreases development time.",
+      "Modularity facilitates parallel development.",
+      "Modularity decreases development costs.",
+      "Modularity leads to a shorter time to market.",
+      "Modularity decreases development complexity."
+    ]
+  },
+  {
+    "statement": "Modularity is identified as an important aspect for product maintenance \u2013 notably because it allows separated diagnoses of product components and isolation of wear parts \u2013 which is, in turn, identified as an aspect of environment-friendly product design.",
+    "insights": [
+      "Modularity facilitates maintainance.",
+      "Modularity decreases environmental impact."
+    ]
+  },
+  {
+    "statement": "The possibility to upgrade, adapt or modify the product for extending the service life of a product or parts and, therefore, reduce the environmental load of products is another cited potential benefit of modularity.",
+    "insights": [
+      "Modularity allows a product to be adapted to new applications.",
+      "Modularity facilitates upgrades.",
+      "Modularity increases service life."
+    ]
+  },
+  {
+    "statement": "Modularity is expected to lead to a reduction in production costs due to postponement and delayed differentiation.",
+    "insights": [
+      "Modularity decreases production costs.",
+      "Modularity allows the postponement strategy."
+    ]
+  },
+  {
+    "statement": "Decreasing the interface complexity between product parts allows the distribution of design tasks, reduces the required intensity of communication between teams and,therefore, allows faster design changes.",
+    "insights": [
+      "Decreasing interface complexity increases the rate of design changes.",
+      "Decreasing interface complexity allows the distribution of design tasks.",
+      "Decreasing interface complexity decreases coordination costs."
+    ]
+  },
+  {
+    "statement": "Product modularity affects the ability to disassemble the product at its end-of-life; hence,the ability to sort parts according to their most appropriate post-life treatment (repair,reuse, remanufacturing, recycle and disposal) and the environmental load of products.",
+    "insights": [
+      "Modularity facilitates waste management and recycling."
+    ]
+  },
+  {
+    "statement": "Modularity may limit the possibility of optimising the product through integration of parts (Gershenson, Prasad, and Zhang 2003; Lau 2011).",
+    "insights": [
+      "Modularity limits product optimization."
+    ]
+  },
+  {
+    "statement": "Although it supports product variety, it can also lead to a structural similarity in product families (Gershenson, Prasad, and Zhang 2003; Kong et al. 2009; Lau 2011).",
+    "insights": [
+      "Modularity increases structural similarity in product families."
+    ]
+  },
+  {
+    "statement": "In the same way, it may reduce the flexibility of the product family (Gershenson, Prasad,and Allamneni 1999).",
+    "insights": [
+      "Modularity increases the potential for development strategy lock-in within a product family."
+    ]
+  },
+  {
+    "statement": "It may ease competition per imitation (Gershenson, Prasad, and Zhang 2003; Seliger andZettl 2008; Lau 2011).",
+    "insights": [
+      "Modular architecture increases ease of immitation by competetors."
+    ]
+  },
+  {
+    "statement": "The lack of optimisation of modular architectures may hinder aesthetics (Pandremenos,Vasiliadis, and Chryssolouris 2012).",
+    "insights": [
+      "Modularization decreases optomization of aesthetics."
+    ]
+  },
+  {
+    "statement": "Modularisation may contradict the design for manufacturing and assembly because it may lead to an increased number of parts and, therefore, increase the number of assembly errors (AlGeddawy and ElMaraghy 2013).",
+    "insights": [
+      "modularity increases opportunity for assembly error.",
+      "Modularity increases total number of parts."
+    ]
+  },
+  {
+    "statement": "Designing and developing product families has been well recognized as an effective means to achieve the economy of scale in order to accommodate an increasing product variety across diverse market niches (Meyer & Utterback, 1993; Sundgren, 1999).",
+    "insights": [
+      "Product families allow variety.",
+      "Product families exploit economies of scale."
+    ]
+  },
+  {
+    "statement": "product family design can offer a multitude of benefits including reduction in development risks and system complexity, improved ability to upgrade products, and enhanced flexibility and responsiveness of manufacturing processes (Sawhney, 1998).",
+    "insights": [
+      "Product families decrease development risk.",
+      "Product families decrease developlent and production system complexity.",
+      "Product families facilitate module upgrade.",
+      "Product families increase manufacturing flexability."
+    ]
+  },
+  {
+    "statement": "Corresponding to a product platform, production processes can be organized as a process platform in the form of standard routings, thus facilitating production configuration for diverse product family design solutions (Jiao, Tseng, Ma, & Zou, 2000).",
+    "insights": [
+      "Product platform based design allows the development of a production platform."
+    ]
+  },
+  {
+    "statement": "integral architectures are often driven by product performance or cost, while modular architectures are driven by variety, product change, engineering standards, and service requirements.",
+    "insights": [
+      "integral architectures are often driven by product performance.",
+      "integral architectures are often driven by product cost.",
+      "modular architectures are driven by variety.",
+      "modular architectures are driven by product change.",
+      "modular architectures are driven by engineering standards.",
+      "modular architectures are driven by service requirements."
+    ]
+  },
+  {
+    "statement": "product family architecture involves systematic planning of modularity and commonality in terms of building blocks and their configuration structures across the functional, technical and structural views. Zamirowski and Otto (1999) point out the necessity to develop the product architecture and platform by synchronizing multiple views such as those from customer needs, functional structures and physical architectures.",
+    "insights": [
+      "Product family architecture increases early design planning complexity."
+    ]
+  },
+  {
+    "statement": "Most approaches consider only a single product platform, where each platform variable is shared across the entire product family. This strategy ... may lead to a situation that some low-end products may be over-designed and certain high-end products may be under-designed (Dai & Scott, 2004).",
+    "insights": [
+      "Product platform design increases over-design of low-end parts.",
+      "Product platform design increases under-design of high-end parts."
+    ]
+  },
+  {
+    "statement": "Ulrich (1995) points out that the modular product architecture allows each functional element of the product to be changed independently by changing only the corresponding component. This is advantageous to produce custom-built products from standard models. It also makes standardization possible, which is essential to achieve the economy of scale; therefore, using modular product architectures, variety can be created by configuring existing building blocks.",
+    "insights": [
+      "Modularity facilitates customization.",
+      "Modularity allows product variety.",
+      "Modularity allows standardization.",
+      "Modularity exploits economies of scale."
+    ]
+  },
+  {
+    "statement": "The importance of standardized interfaces in product architectures is recognized by Meyer and Lehnerd (1997). Sanderson and Uzumeri (1995) suggest that the product family evolution may have been restricted if clear and robust physical interfaces are not developed and defined carefully.",
+    "insights": [
+      "Standardized interfaces allow product family evolution."
+    ]
+  },
+  {
+    "statement": "Allahverdi et al.(2002) optimize modular products as a generalized subset selection problem subject to a balance of the quality loss due to modularization and the cost of reconfiguration.",
+    "insights": [
+      "Modularity decreases the quality."
+    ]
+  },
+  {
+    "statement": "Kim and Chhajed (2001) develop an economic model that considers a market consisting of a high segment and a low segment. They determine that large commonality decreases production costs but makes the products more indistinguishable from one another, which makes the product more desirable for the low segment but less desirable for the high segment.",
+    "insights": [
+      "Commonality makes products in a family less distinguishable.",
+      "Commonality decreases production costs."
+    ]
+  },
+  {
+    "statement": "The direct consequence of product customization on production is observed as an exponentially increased number of process variations (referred to as process variety), such as diverse machines, tools, fixtures, setups, cycle times, and labor (Wortmann et al., 1997).",
+    "insights": [
+      "Custom components increase the variety of production processes."
+    ]
+  },
+  {
+    "statement": "The benefit of designing product families comes from a reduction of components in inventory and component handling, reduction of component types and manufacturing processes, and increased production volumes (Fisher et al., 1999).",
+    "insights": [
+      "Product families decrease component inventory variety.",
+      "Product families decrease component inventory.",
+      "Product families increase lot size."
+    ]
+  },
+  {
+    "statement": "sharing components in a product family may lead to a lack of distinctiveness, and shared components in one product often exceed the requirements of other products, which causes additional production costs (Krishnan & Gupta, 2001).",
+    "insights": [
+      "Product platform based design increases production costs.",
+      "Product platform based design increases oversizing."
+    ]
+  },
+  {
+    "statement": "This also suggests that the use of common components allows inventory levels to be lowered through risk pooling (Gerchak, Magazine, and Gamble, 1988).",
+    "insights": [
+      "Commonality decreases component inventory.",
+      "Commonality increases risk pooling."
+    ]
+  },
+  {
+    "statement": "From a supply chain perspective, risk pooling is one of the most noticeable effects of product platforms and component commonality across product families.",
+    "insights": [
+      "Product platform based design increases risk pooling."
+    ]
+  },
+  {
+    "statement": "reducing complexity of a product family through product design by leveraging common characteristics among the products within the family.",
+    "insights": [
+      "Commonality reduces design complexity."
+    ]
+  },
+  {
+    "statement": "Fine et al.(2005) conjecture that integral products would ideally be built by integral supply chains, whilst modular products tend to be produced by modular supply chains. Based on examination of the automotive industry",
+    "insights": [
+      "Modular architecture exploits modular supply chains.",
+      "Integral architecture exploits integral supply chains."
+    ]
+  },
+  {
+    "statement": "Developing product platforms in most cases requires more investments and development time than developing a single product, which may delay the time to market and affect the return on investment time.",
+    "insights": [
+      "Product platform based design increases development costs.",
+      "Product platform based design increases development time.",
+      "Product platform based design increases initial time to market."
+    ]
+  },
+  {
+    "statement": "Product family design and development enhances profitability through a synergy of increased customer-perceived value and cost reduction in design, manufacturing and the supply chain.",
+    "insights": [
+      "Product family design and development enhances financial performance of the product for the firm.",
+      "Product family design and development enhances customer-perceived value.",
+      "Product family design and development decreases development costs."
+    ]
+  },
+  {
+    "statement": "It is diffcult to maintain commonality and economies of scale in products with strict customer design requirements that may vary greatly from contract-to-contract or piece-to-piece. Often, these products are highly customized or possibly unique, which leads to high development and production costs and long and uncertain production times. ",
+    "insights": [
+      "Custom parts increase development costs.",
+      "Custom parts  make it difficult to maintain commonality.",
+      "Custom parts make it difficult to maintain economies of scale."
+    ]
+  },
+  {
+    "statement": "Product families have been successfully employed... to address the challenge of providing customization and variety for the marketplace while maintaining commonality between products",
+    "insights": [
+      "Product families allows for more product variety.",
+      "Product families allow for customization while maintaining commonality between products."
+    ]
+  },
+  {
+    "statement": "Bottom up approach wherein a company redesigns or consolidates a group of distinct products to standardize components to improve economies of scale.",
+    "insights": [
+      "Bottom up approach exploits the benefits of economies of scale."
+    ]
+  },
+  {
+    "statement": "When designing a valve to meet custom requirements, it is typical for a company to simply modify a previously built design. This process can be time consuming and expensive because the capability of the previous design to handle the new requirements is not precisely known, and a complete review is necessary to determine required modifications and cost. Moreover, product line consistency and control can be lost in the process.",
+    "insights": [
+      "Modifying existing designs for custom requirements increases time used in design."
+    ]
+  },
+  {
+    "statement": "When designing a valve to meet custom requirements, it is typical for a company to simply modify a previously built design. This process can be time consuming and expensive because the capability of the previous design to handle the new requirements is not precisely known, and a complete review is necessary to determine required modifications and cost. Moreover, product line consistency and control can be lost in the process.",
+    "insights": [
+      "Modifying existing designs for custom requirements increases costs.",
+      "Modifying existing designs for custom requirements increases time used checking and debugging.",
+      "Modifying existing designs for custom requirements decreases product line consistency and control."
+    ]
+  },
+  {
+    "statement": "Carefully designed product platform can help reduce the design and review effort and shorten product lead-time.",
+    "insights": [
+      "Carefully designed product platform can help shorten product lead-time.",
+      "Carefully designed product platform can help reduce the review effort.",
+      "Carefully designed product platform can help reduce the design effort."
+    ]
+  },
+  {
+    "statement": "When applying a bottom up approach to product family design, a market segmentation grid is established from the existing product line, and the grid should reflect the company's overall target market. The market is typically well known, and the market segmentation grid should contain the product types, grades, sizes, or other designations that are typically already established. If the target market or product is not yet established, a top-down design approach to platform design, rather than redesign, should be considered.",
+    "insights": [
+      "Applying a bottom up aproach to product design exploits well-known market characteristics.",
+      "Top-down design approach to platform design for unestablished products increases the product's tolerance to undertainty."
+    ]
+  },
+  {
+    "statement": "For highly customized products, it can be difficult to establish the market niches and the design requirements with certainty, as future demand and requirements can be markedly different from the past.",
+    "insights": [
+      "Highly customized products are more sensitive to product market uncertainty."
+    ]
+  },
+  {
+    "statement": "We identify subsets of the company's product line where *platform* leveraging can potentially provide the largest cost savings. We begin with the premise that platform leveraging can have the greatest impact where past customer demand was highest, and proceed by defining a subset of the complete market segmentation grid where leveraging has the greatest cost savings potential.",
+    "insights": [
+      "Product platform based design makes costs more predictable."
+    ]
+  },
+  {
+    "statement": "*Platform* leveraging strategy is a good compromise between cost savings and performance based on past engineering experience. If the leveraging is too aggressive, performance inefficiencies could dominate, resulting in decreased customer satisfaction.",
+    "insights": [
+      "Product platform based design allows performance to be achieved at low cost."
+    ]
+  },
+  {
+    "statement": "Modular *Widget* designs, based on these *Product* platforms, could more effectively reduce *Widget* construction and minimize the number of existing *Widgets* that must be stored.",
+    "insights": [
+      "Modular designs, can more effectively reduce quantity of part construction and storage.",
+      "Modular designs can more effectively minimize the variety of required parts that must be stored."
+    ]
+  },
+  {
+    "statement": "a \"hypothetically perfect'' integrative system would be one whose components are completely physically distributed throughout the product resulting in components that share interfaces with all the systems that comprise the product",
+    "insights": [
+      "Integral architecture couples interfaces between components."
+    ]
+  },
+  {
+    "statement": "a \"hypothetically perfect'' modular system would be one whose components do not share design interfaces with components that belong to other systems.",
+    "insights": [
+      "Modularity decouples interfaces."
+    ]
+  },
+  {
+    "statement": "The distributed nature of the integrative systems forces these design teams to overcome organizational barriers in order to handle design interfaces with all the systems.",
+    "insights": [
+      "teams handle handling integral design cross more organizational boundaries."
+    ]
+  },
+  {
+    "statement": "design interfaces across modular systems are more difficult for design experts to recognize than interfaces with integrative systems.",
+    "insights": [
+      "Modularity makes Interfaces across systems boundaries more difficult to predict."
+    ]
+  },
+  {
+    "statement": "spatial-type design interfaces are largely addressed in the design of modular systems while transfer-type design interfaces are more likely to be handled in the design of integrative systems.",
+    "insights": [
+      "modular systesm focus on spatial-type interfaces.",
+      "integrative systems focus on transfer-type interfaces."
+    ]
+  },
+  {
+    "statement": "Given a family of modular products, designing low cost assembly systems is an important problem. The ability to produce a variety of products through the combination of modular components is a meaningful benefit during product design stage. Therefore, modularity design is to produce different products by combining standard components and sharing the same assembly operations for a part of their structure.",
+    "insights": [
+      "Modularity increases product variety."
+    ]
+  },
+  {
+    "statement": "Suh (1990) promotes the decoupling of functional requirements in design. The independence of functional requirements allows design parameters to have a controllable effect on a specific functional requirement and minimal negative impact on other functional requirements. ",
+    "insights": [
+      "Modularity facilitates optimization.",
+      "Modularity decreases degree of coupling."
+    ]
+  },
+  {
+    "statement": "Tsai and Wang (1999) presented a methodology of modular-based design in the conceptual stage of systems to support concur-rent engineering.",
+    "insights": [
+      "Modularity supports concurrent engineering."
+    ]
+  },
+  {
+    "statement": " All parts should be assembled from one direction whenever possible. Extra directions mean wasted time and motion as well as more transfer stations, inspection station and fixture nests. The best possible assembly is when all parts are added in a top-down fashion to create a Z-axis stack.",
+    "insights": [
+      "Modularity with one dimensional assembly increases ease of assembly."
+    ]
+  },
+  {
+    "statement": "The following is a list of DFA criteria (Corbett, 1987): 1. Minimize the number of (1) parts and fixings, (2) design variants, (3) assembly movements, and (4) assembly directions. 2. Provide (1) suitable lead-in chamfers, (2) automatic alignment, (3) easy access for locating surfaces, (4) symmetrical parts, or exaggerate asymmetry, and (5) simple handling and transportation. 3. Avoid (1) visual obstructions, (2) simultaneous fitting operations, (3) parts which will tangle or `nest', (4) adjustments which affect prior adjustments, and (5) the possibility of assembly errors.",
+    "insights": [
+      "Geometric nesting impedes assembly."
+    ]
+  },
+  {
+    "statement": "Ishii, Lee and Eubanks (1995) proposed the concept of clumping for disassembly and recycle. A clump is a collection of components and/or subassemblies that share a common characteristic based on user intent. Material compatibility is a major issue in clumping for product retirement. The designer may need to clump components that are not compatible due to certain constraints. If the post-life intent of the product is to be recycled and if materials in the clump are not compatible, then the mechanical connections among the components should be easily broken, i.e. using snap fits, press-fits, screws, and screw insert. If the intent of the designer is to clump for disposal, neither the material nor the fastening method is important.",
+    "insights": [
+      "Clumping improves a product's recyclability."
+    ]
+  },
+  {
+    "statement": "Design for maintainability: Mount units to chassis or structure rather than on other units.",
+    "insights": [
+      "Bus modularity increases ease of maintainance.",
+      "Slot modularity increases ease of maintainance."
+    ]
+  },
+  {
+    "statement": "Design for maintainability: All adjustments shall be designed to be common in their replacement response (i.e., clockwise,right, or up to increase).",
+    "insights": [
+      "Using identified standards increases ease of maintainance."
+    ]
+  },
+  {
+    "statement": "Design for maintainability: Route cables to facilitate tracing, removal, and replacement.",
+    "insights": [
+      "Clumping increases ease of maintainance."
+    ]
+  }
+]
 
